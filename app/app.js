@@ -41,9 +41,10 @@
   /* ---------- map ---------- */
   var map = L.map("map", { zoomControl: false, tap: true }).setView([state.me.lat, state.me.lon], 16);
   L.control.zoom({ position: "bottomright" }).addTo(map);
-  L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png", {
-    maxZoom: 19, subdomains: "abcd",
-    attribution: "&copy; OpenStreetMap contributors &copy; CARTO"
+  // OpenStreetMap's own tiles: no key, fine for personal use. Switch provider before wider sharing.
+  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    maxZoom: 19,
+    attribution: "&copy; OpenStreetMap contributors"
   }).addTo(map);
   var storyLayer = L.layerGroup().addTo(map);
   var radiusCircle = L.circle([state.me.lat, state.me.lon], { radius: state.radius, color: "#1B6A73", weight: 1.5, dashArray: "5 5", fillOpacity: 0.04, interactive: false }).addTo(map);
@@ -81,6 +82,12 @@
     radiusCircle.setLatLng([p.lat, p.lon]).setRadius(state.radius);
     accCircle.setLatLng([p.lat, p.lon]).setRadius(p.acc && p.acc < 200 ? p.acc : 0);
     if (p.source === "demo") setStatus("Simulated: " + state.me.label);
+    // hide an old "you are near" banner once you have moved away from that story
+    var tb = $("#toast");
+    if (!tb.hidden && state.toastId) {
+      var ts = state.stories.filter(function (s) { return s.id === state.toastId; })[0];
+      if (ts && HW.dist(state.me, ts) > NEAR_M * 1.5) tb.hidden = true;
+    }
     if (reframe) frame();
     render();
     checkNear();
@@ -116,6 +123,7 @@
   }
   function showToast(s) {
     var t = $("#toast");
+    state.toastId = s.id;
     t.replaceChildren(
       el("span", { text: "You are near: " + s.title }),
       el("button", { type: "button", text: "Read", onclick: function () { t.hidden = true; select(s.id, true); } })
