@@ -403,6 +403,915 @@
       ],
       "verification_notes": "OpenSFHistory caption names Bernard Bauchou as the occupant of 9 14th Avenue.",
       "status": "published"
+    },
+    {
+      "id": "refugee-shack-24th",
+      "area": "Outer Sunset",
+      "title": "The refugee shack that started a movement",
+      "kind": "layers",
+      "period": "1906 to today",
+      "lat": 37.7645,
+      "lon": -122.4819,
+      "coords_confidence": "approximate",
+      "teaser": "Behind a plain Sunset facade stand three 1906 relief cottages joined together, with a fourth in the backyard. Jane Cryan moved in during 1982, learned what they were and fought for them. In 1984 the city landmarked the house, the only refugee shack it has ever protected.",
+      "source": {
+        "title": "This tiny SF shack tipped off a decades long preservation movement",
+        "author": "Keith Menconi",
+        "publisher": "San Francisco Examiner",
+        "date": "2025-08-28",
+        "url": "https://www.sfexaminer.com/news/the-city/how-1906-earthquake-shack-sparked-sf-preservation-movement/article_27e8f775-231e-49a1-9797-5137c6c9bc2c.html"
+      },
+      "photos": [],
+      "tags": [
+        "1906 earthquake",
+        "refugee shacks",
+        "landmark"
+      ],
+      "verification_notes": "Address 1227 24th Avenue and Landmark No. 171 per the Examiner; Atlas Obscura confirms Cryan's 1982 lease and Landmark 171. The 1984 landmark year comes from the Examiner only. Pin placed on the block, not the lot.",
+      "status": "published"
+    },
+    {
+      "id": "ice-rink-48th",
+      "area": "Outer Sunset",
+      "title": "Iceland on 48th Avenue",
+      "kind": "lost_building",
+      "period": "1926 to 1991",
+      "lat": 37.7593,
+      "lon": -122.5075,
+      "coords_confidence": "approximate",
+      "teaser": "Inside an ordinary Outer Sunset block, a barn like building held a full size ice rink from 1926. Kids learned to skate and played junior hockey while the surf rolled a few streets away. Insurance costs and decay ended it, and the rink came down in 1991 for condominiums.",
+      "source": {
+        "title": "Secret Ice Rink",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2023-10-04",
+        "url": "https://www.sanfranciscostory.com/secret-ice-rink/"
+      },
+      "photos": [
+        {
+          "caption": "Interior of the San Francisco Ice Arena",
+          "date": "1990",
+          "credit": "Greg Gaar, OpenSFHistory / Western Neighborhoods Project, wnp72.16436",
+          "page_url": "https://www.opensfhistory.org/Display/wnp72.16436.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp72.16436.jpg"
+        }
+      ],
+      "tags": [
+        "ice skating",
+        "Outer Sunset",
+        "demolished"
+      ],
+      "verification_notes": "Address 1557 48th Avenue per SF Story; opened March 1926, demolished July 8, 1991. Pin placed on the block.",
+      "status": "published"
+    },
+    {
+      "id": "sweenys-observatory",
+      "area": "Golden Gate Park",
+      "title": "The castle on Strawberry Hill",
+      "kind": "lost_building",
+      "period": "1891 to 1906",
+      "lat": 37.7692,
+      "lon": -122.4764,
+      "coords_confidence": "approximate",
+      "teaser": "A reddish concrete lookout with little bastion towers once crowned Strawberry Hill, the park's highest point, paid for by Thomas Sweeny. Carriages rolled up for the panorama and a waterfall tumbled toward Stow Lake. The 1906 earthquake wrecked it, and parts of the foundation remain today.",
+      "source": {
+        "title": "Sweeny's Observatory",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2023-09-13",
+        "url": "https://www.sanfranciscostory.com/sweenys-observatory/"
+      },
+      "photos": [
+        {
+          "caption": "Sweeny's Observatory on Strawberry Hill",
+          "date": "c. 1893",
+          "credit": "Isaiah West Taber, OpenSFHistory / Western Neighborhoods Project, wnp26.397",
+          "page_url": "https://www.opensfhistory.org/Display/wnp26.397.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp26.397.jpg"
+        },
+        {
+          "caption": "The observatory in ruins after the earthquake",
+          "date": "April 18, 1906",
+          "credit": "James Stoddard, OpenSFHistory / Western Neighborhoods Project, wnp27.5474",
+          "page_url": "https://www.opensfhistory.org/Display/wnp27.5474.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp27.5474.jpg"
+        }
+      ],
+      "tags": [
+        "Golden Gate Park",
+        "1906 earthquake",
+        "Strawberry Hill"
+      ],
+      "verification_notes": "Dedicated Sept 19, 1891 and ruined April 18, 1906 per SF Story. Pin set on Strawberry Hill summit; remains are near it.",
+      "status": "published"
+    },
+    {
+      "id": "milk-punch-house",
+      "area": "Inner Sunset",
+      "title": "The janitor who ran the saloon",
+      "kind": "event",
+      "period": "1895",
+      "lat": 37.7643,
+      "lon": -122.4637,
+      "coords_confidence": "approximate",
+      "teaser": "In 1895 a roadhouse nicknamed the Milk Punch House stood beside the Laguna Honda School on Seventh Avenue. Its owner, Irish born Elizabeth Chadwick, also worked as the school janitor while raising three children upstairs. A grand jury objected, the school board argued for months and parents signed petitions in her defense.",
+      "source": {
+        "title": "The Milk Punch Janitress",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2023-06-07",
+        "url": "https://www.sanfranciscostory.com/the-milk-punch-janitress/"
+      },
+      "photos": [
+        {
+          "caption": "The Laguna Honda School, damaged in 1906, with the saloon beside it",
+          "date": "April 1906",
+          "credit": "OpenSFHistory / Western Neighborhoods Project, wnp15.1265",
+          "page_url": "https://www.opensfhistory.org/Display/wnp15.1265.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp15.1265.jpg"
+        }
+      ],
+      "tags": [
+        "roadhouse",
+        "schools",
+        "Inner Sunset"
+      ],
+      "verification_notes": "School stood on 7th Avenue between Irving and Judah, saloon just north of it, per SF Story. The article does not say whether the saloon building survives.",
+      "status": "published"
+    },
+    {
+      "id": "house-built-on-sand",
+      "area": "Outer Sunset",
+      "title": "A house on the dunes, still standing",
+      "kind": "layers",
+      "period": "1904 to today",
+      "lat": 37.7593,
+      "lon": -122.4797,
+      "coords_confidence": "approximate",
+      "teaser": "House painter Elbert Dodge bought four lots on bare dunes in 1903 and spent a year of Sundays and holidays building a home with his brother. He added strawberries, fruit trees, chickens and a windmill well. The Chronicle admired him in 1905, and the house still stands on 22nd Avenue.",
+      "source": {
+        "title": "The House Built on Sand",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2023-01-25",
+        "url": "https://www.sanfranciscostory.com/the-house-built-on-sand/"
+      },
+      "photos": [],
+      "tags": [
+        "dunes",
+        "Outer Sunset",
+        "pioneers"
+      ],
+      "verification_notes": "Address 1549 22nd Avenue per SF Story. Pin placed on the block. Private home, view from the street.",
+      "status": "published"
+    },
+    {
+      "id": "tornado-house-46th",
+      "area": "Outer Sunset",
+      "title": "The day a twister took a Sunset house",
+      "kind": "event",
+      "period": "February 24, 1930",
+      "lat": 37.753,
+      "lon": -122.5054,
+      "coords_confidence": "approximate",
+      "teaser": "On February 24, 1930, a storm shoved a lone house at 46th Avenue and Ortega off its foundation and left it leaning in the sand. Police first heard reports of an explosion. Owner John Volz was at work, lost about 5,000 dollars and rebuilt with a ground floor garage.",
+      "source": {
+        "title": "Tornado House",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2024-02-14",
+        "url": "https://www.sanfranciscostory.com/tornado-house/"
+      },
+      "photos": [
+        {
+          "caption": "The house knocked off its foundation after the storm",
+          "date": "February 24, 1930",
+          "credit": "Emiliano Echeverria, Randolph Brandt Collection, OpenSFHistory / Western Neighborhoods Project, wnp30.0124",
+          "page_url": "https://www.opensfhistory.org/Display/wnp30.0124.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp30.0124.jpg"
+        }
+      ],
+      "tags": [
+        "storm",
+        "Outer Sunset",
+        "1930"
+      ],
+      "verification_notes": "Address 1896 46th Avenue per SF Story, which also corrects newspaper claims that the house spun 90 degrees.",
+      "status": "published"
+    },
+    {
+      "id": "ocean-beach-airfield",
+      "area": "Outer Sunset",
+      "title": "A flight school on the sand",
+      "kind": "lost_building",
+      "period": "1914 to 1917",
+      "lat": 37.734,
+      "lon": -122.5095,
+      "coords_confidence": "approximate",
+      "teaser": "In 1914 the Christofferson brothers taught flying on the sand at the foot of Sloat Boulevard, just as the Great Highway was being built. Their daredevil circle was short lived. Several of the pilots tied to the school, including Silas Christofferson in 1916, were killed in crashes within a few years.",
+      "source": {
+        "title": "Ocean Beach Airfield",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2025-08-13",
+        "url": "https://www.sanfranciscostory.com/ocean-beach-airfield/"
+      },
+      "photos": [],
+      "tags": [
+        "aviation",
+        "Ocean Beach",
+        "Great Highway"
+      ],
+      "verification_notes": "Location described as at the foot of Sloat Boulevard near the Great Highway; the exact hangar site is not given, so the pin is approximate. No archive photo IDs listed in the article.",
+      "status": "published"
+    },
+    {
+      "id": "reynolds-hog-ranch",
+      "area": "Inner Sunset",
+      "title": "The hog ranch at 14th and Lincoln",
+      "kind": "lost_building",
+      "period": "1860s to 1906",
+      "lat": 37.765,
+      "lon": -122.4716,
+      "coords_confidence": "approximate",
+      "teaser": "Cornelius Reynolds, an English immigrant, claimed dunes near today's 14th Avenue and Lincoln Way in the 1860s and raised hogs, then ran a small saloon. Family deaths came one after another. After 1906 he sold land to the streetcar company. Apartments now cover the ranch, though its old boundary still shows.",
+      "source": {
+        "title": "Scrubland Living",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2026-03-04",
+        "url": "https://www.sanfranciscostory.com/scrubland-living/"
+      },
+      "photos": [
+        {
+          "caption": "View from Strawberry Hill over the western dunes",
+          "date": "1880s",
+          "credit": "Charles Turrill, OpenSFHistory / Western Neighborhoods Project, wnp27.4937",
+          "page_url": "https://www.opensfhistory.org/Display/wnp27.4937.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp27.4937.jpg"
+        },
+        {
+          "caption": "The Inner Sunset seen from Mount Sutro",
+          "date": "c. 1901",
+          "credit": "W. C. Billington, OpenSFHistory / Western Neighborhoods Project, wnp15.569",
+          "page_url": "https://www.opensfhistory.org/Display/wnp15.569.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp15.569.jpg"
+        }
+      ],
+      "tags": [
+        "dunes",
+        "homesteaders",
+        "Inner Sunset"
+      ],
+      "verification_notes": "Ranch location per SF Story: 14th Avenue and Lincoln Way (then H Street). Sits near our streetcar boneyard card; the two stories overlap on the same block.",
+      "status": "published"
+    },
+    {
+      "id": "making-19th-avenue",
+      "area": "Parkside",
+      "title": "Making 19th Avenue",
+      "kind": "layers",
+      "period": "c. 1900 to 1930s",
+      "lat": 37.7535,
+      "lon": -122.4765,
+      "coords_confidence": "approximate",
+      "teaser": "Around 1900 19th Avenue was mostly a line on a map, with Carl Larsen's chicken ranch near today's Noriega and Ortega. A rutted track was paved by 1916, and a 1929 right of way near Lake Merced let it connect south. After the Golden Gate Bridge, it was widened into Highway 1.",
+      "source": {
+        "title": "Making 19th Avenue",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2024-11-27",
+        "url": "https://www.sanfranciscostory.com/making-19th-avenue/"
+      },
+      "photos": [
+        {
+          "caption": "View north from Moraga Street over the dunes",
+          "date": "c. 1900",
+          "credit": "Charles Turrill, OpenSFHistory / Western Neighborhoods Project, wnp26.713",
+          "page_url": "https://www.opensfhistory.org/Display/wnp26.713.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp26.713.jpg"
+        },
+        {
+          "caption": "Fresh paving near Quintara Street",
+          "date": "August 12, 1916",
+          "credit": "Horace Chaffee, Department of Public Works, OpenSFHistory / Western Neighborhoods Project, wnp36.01322",
+          "page_url": "https://www.opensfhistory.org/Display/wnp36.01322.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp36.01322.jpg"
+        }
+      ],
+      "tags": [
+        "19th Avenue",
+        "roads",
+        "Larsen ranch"
+      ],
+      "verification_notes": "Larsen ranch between Noriega and Ortega per SF Story; the pin is placed there.",
+      "status": "published"
+    },
+    {
+      "id": "mothers-building",
+      "area": "Outer Sunset",
+      "title": "The Mothers Building",
+      "kind": "layers",
+      "period": "1925 to today",
+      "lat": 37.7326,
+      "lon": -122.5032,
+      "coords_confidence": "approximate",
+      "teaser": "Herbert and Mortimer Fleishhacker gave this Italian Renaissance rest house in 1925 in memory of their mother, a refuge for mothers and children beside the zoo. Women artists added Noah's Ark murals in the 1930s. It closed in 2002 as unsafe and still waits for repairs.",
+      "source": {
+        "title": "Mothers Building 100",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2025-12-10",
+        "url": "https://www.sanfranciscostory.com/mothers-building-100/"
+      },
+      "photos": [
+        {
+          "caption": "The new Mothers Building and wading pool",
+          "date": "1925",
+          "credit": "OpenSFHistory / Western Neighborhoods Project, wnp15.1412",
+          "page_url": "https://www.opensfhistory.org/Display/wnp15.1412.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp15.1412.jpg"
+        },
+        {
+          "caption": "Children at the wading pool",
+          "date": "1925",
+          "credit": "Gabriel Moulin, OpenSFHistory / Western Neighborhoods Project, wnp27.4762",
+          "page_url": "https://www.opensfhistory.org/Display/wnp27.4762.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp27.4762.jpg"
+        }
+      ],
+      "tags": [
+        "San Francisco Zoo",
+        "murals",
+        "landmark"
+      ],
+      "verification_notes": "Architect George Kelham; city landmark 2022. Inside the zoo grounds, so the building is only visible from zoo property.",
+      "status": "published"
+    },
+    {
+      "id": "trocadero-clubhouse",
+      "area": "Parkside",
+      "title": "The last roadhouse",
+      "kind": "layers",
+      "period": "1892 to today",
+      "lat": 37.7352,
+      "lon": -122.4752,
+      "coords_confidence": "approximate",
+      "teaser": "Hidden behind redwoods below 19th Avenue, the Trocadero opened in 1892 as a roadhouse known for turtle soup. Political boss Abe Ruef was arrested here in 1907. It later served as a women's outdoor club. A falling eucalyptus smashed the roof in 2023, and restoration finished in 2025.",
+      "source": {
+        "title": "Trocadero Rebirth",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2025-03-12",
+        "url": "https://www.sanfranciscostory.com/trocadero-rebirth/"
+      },
+      "photos": [
+        {
+          "caption": "Postcard advertisement for the Trocadero",
+          "date": "1920s",
+          "credit": "OpenSFHistory / Western Neighborhoods Project, wnp37.03678",
+          "page_url": "https://www.opensfhistory.org/Display/wnp37.03678.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp37.03678.jpg"
+        },
+        {
+          "caption": "View past the turtle pond",
+          "date": "1930s",
+          "credit": "OpenSFHistory / Western Neighborhoods Project, wnp26.1604",
+          "page_url": "https://www.opensfhistory.org/Display/wnp26.1604.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp26.1604.jpg"
+        }
+      ],
+      "tags": [
+        "Stern Grove",
+        "roadhouse",
+        "landmark"
+      ],
+      "verification_notes": "City landmark 301 (April 5, 2022) per SF Story. Pin placed on the slope in Stern Grove below 19th Avenue.",
+      "status": "published"
+    },
+    {
+      "id": "parkside-village",
+      "area": "Parkside",
+      "title": "Parkside on the dunes",
+      "kind": "layers",
+      "period": "1907 to 1938",
+      "lat": 37.7427,
+      "lon": -122.4904,
+      "coords_confidence": "approximate",
+      "teaser": "The first Parkside homes rose on dunes near Vicente and 32nd Avenue in 1907, sold by the Parkside Realty Company. Residents formed an improvement club in 1908 to demand services, and Eugene Williams opened the district's first grocery in 1909. The L Taraval streetcar arrived in 1923.",
+      "source": {
+        "title": "The Parkside Village",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2025-07-09",
+        "url": "https://www.sanfranciscostory.com/the-parkside-village/"
+      },
+      "photos": [],
+      "tags": [
+        "Parkside",
+        "development",
+        "Taraval"
+      ],
+      "verification_notes": "Commercial hub at Taraval and 32nd Avenue per SF Story; the first homes were slightly south, so the pin is approximate. The article also covers discriminatory covenants of the era.",
+      "status": "published"
+    },
+    {
+      "id": "zoo-train-1294",
+      "area": "Outer Sunset",
+      "title": "A steam engine on the zoo playground",
+      "kind": "event",
+      "period": "1957 to about 1981",
+      "lat": 37.733,
+      "lon": -122.5035,
+      "coords_confidence": "approximate",
+      "teaser": "In August 1957 Southern Pacific donated switch engine 1294 to the zoo playground. A crane company moved it for free, local Teamsters paid for climbing bars, and children rang its bell for decades. Fog corroded the engine, and it was removed and scrapped around 1981.",
+      "source": {
+        "title": "Zoo Train",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2026-06-24",
+        "url": "https://www.sanfranciscostory.com/zoo-train/"
+      },
+      "photos": [
+        {
+          "caption": "The engine surprises the crowd on moving day",
+          "date": "August 19, 1957",
+          "credit": "OpenSFHistory / Western Neighborhoods Project, wnp14.2963",
+          "page_url": "https://www.opensfhistory.org/Display/wnp14.2963.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp14.2963.jpg"
+        },
+        {
+          "caption": "The engine backs into the playground",
+          "date": "August 1957",
+          "credit": "OpenSFHistory / Western Neighborhoods Project, wnp14.2964",
+          "page_url": "https://www.opensfhistory.org/Display/wnp14.2964.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp14.2964.jpg"
+        }
+      ],
+      "tags": [
+        "San Francisco Zoo",
+        "trains",
+        "1957"
+      ],
+      "verification_notes": "Dedicated Nov 29, 1957. The article gives both early 1980s removal and 1981 scrapping, so the end date is stated loosely.",
+      "status": "published"
+    },
+    {
+      "id": "fleishhacker-pool",
+      "area": "Outer Sunset",
+      "title": "The biggest pool in America",
+      "kind": "lost_building",
+      "period": "1925 to 1971",
+      "lat": 37.7322,
+      "lon": -122.5058,
+      "coords_confidence": "approximate",
+      "teaser": "Opened in 1925 beside the Great Highway, Fleishhacker Pool was billed as the largest swimming pool in the United States, 1,000 feet long and filled with seawater. Lifeguards patrolled in rowboats. Storm damage to a pipe in 1971 doomed it, and it was filled in and turned into zoo parking.",
+      "source": {
+        "title": "Fleishhacker Pool",
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia",
+        "date": "2026-10-21",
+        "url": "https://en.wikipedia.org/wiki/Fleishhacker_Pool"
+      },
+      "photos": [],
+      "tags": [
+        "swimming",
+        "San Francisco Zoo",
+        "Great Highway"
+      ],
+      "verification_notes": "Single source (Wikipedia, read Oct 21, 2026). Pool house burned December 1, 2012. Pin on the former pool site, now parking; exact outline not checked.",
+      "status": "published"
+    },
+    {
+      "id": "sunset-tunnel-opening",
+      "area": "Cole Valley",
+      "title": "Opening day for the Sunset Tunnel",
+      "kind": "event",
+      "period": "October 21, 1928",
+      "lat": 37.7656,
+      "lon": -122.4493,
+      "coords_confidence": "approximate",
+      "teaser": "On October 21, 1928, thousands came to the western portal at Carl and Cole to watch Mayor Sunny Jim Rolph pilot a streetcar through the new tunnel. The line to the ocean made the Sunset practical to live in. Digging had begun in 1926 and cost about 1.5 million dollars.",
+      "source": {
+        "title": "N Judah turns 87",
+        "author": "Jeremy Menzies",
+        "publisher": "SFMTA History in Motion",
+        "date": "2015-10-15",
+        "url": "https://www.sfmta.com/blog/n-judah-turns-87"
+      },
+      "photos": [],
+      "tags": [
+        "N Judah",
+        "Sunset Tunnel",
+        "Cole Valley"
+      ],
+      "verification_notes": "Opening day facts from SFMTA; groundbreaking June 10, 1926 and cost $1,477,618 from Wikipedia's Sunset Tunnel page.",
+      "status": "published"
+    },
+    {
+      "id": "kezar-stadium",
+      "area": "Haight",
+      "title": "Kezar Stadium",
+      "kind": "lost_building",
+      "period": "1925 to 1989",
+      "lat": 37.767,
+      "lon": -122.459,
+      "coords_confidence": "approximate",
+      "teaser": "Willis Polk's stadium opened in Golden Gate Park in 1925 and later became the first home of the 49ers, who played here until 1970. Nearly 60,000 seats held the crowds. It hosted concerts afterward, and the original stadium was torn down in 1989 for a smaller rebuild.",
+      "source": {
+        "title": "Kezar Stadium: San Francisco's Pro Football Roots",
+        "author": "Jeremy Menzies",
+        "publisher": "SFMTA History in Motion",
+        "date": "2016-01-28",
+        "url": "https://www.sfmta.com/blog/kezar-stadium-san-franciscos-pro-football-roots"
+      },
+      "photos": [],
+      "tags": [
+        "49ers",
+        "Golden Gate Park",
+        "stadium"
+      ],
+      "verification_notes": "Dates cross checked with Wikipedia (dedication May 2, 1925; demolition and rebuild 1989). Architect credit is SFMTA's.",
+      "status": "published"
+    },
+    {
+      "id": "laguna-honda-almshouse",
+      "area": "Inner Sunset",
+      "title": "From almshouse to hospital",
+      "kind": "layers",
+      "period": "1867 to today",
+      "lat": 37.7492,
+      "lon": -122.4569,
+      "coords_confidence": "approximate",
+      "teaser": "Laguna Honda began in 1867 as an almshouse for the poor and sick, on 87 acres where residents grew food and kept dairy cows. After the 1906 earthquake a 1,000 bed wing opened and was dedicated in 1909 by Theodore Roosevelt. The Spanish Revival main buildings followed in 1926.",
+      "source": {
+        "title": "Laguna Honda Hospital",
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia",
+        "date": "2026-10-21",
+        "url": "https://en.wikipedia.org/wiki/Laguna_Honda_Hospital"
+      },
+      "photos": [],
+      "tags": [
+        "hospital",
+        "almshouse",
+        "Laguna Honda"
+      ],
+      "verification_notes": "Single source (Wikipedia). Coordinates from the article's infobox.",
+      "status": "published"
+    },
+    {
+      "id": "strybing-arboretum",
+      "area": "Inner Sunset",
+      "title": "The arboretum that waited fifty years",
+      "kind": "layers",
+      "period": "1880s to 1940",
+      "lat": 37.7667,
+      "lon": -122.4664,
+      "coords_confidence": "approximate",
+      "teaser": "John McLaren sketched plans for an arboretum in the 1880s, but money never came. Then Helene Strybing left a bequest in 1927. WPA workers began planting in 1937 and the arboretum opened in May 1940. Today it is the San Francisco Botanical Garden, entered at Ninth Avenue and Lincoln.",
+      "source": {
+        "title": "San Francisco Botanical Garden",
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia",
+        "date": "2026-10-21",
+        "url": "https://en.wikipedia.org/wiki/San_Francisco_Botanical_Garden"
+      },
+      "photos": [],
+      "tags": [
+        "Golden Gate Park",
+        "gardens",
+        "WPA"
+      ],
+      "verification_notes": "Single source (Wikipedia). Pin on the Ninth Avenue gate area.",
+      "status": "published"
+    },
+    {
+      "id": "sutro-tower",
+      "area": "Inner Sunset",
+      "title": "The tower people loved to hate",
+      "kind": "layers",
+      "period": "1971 to 1973",
+      "lat": 37.7553,
+      "lon": -122.4528,
+      "coords_confidence": "approximate",
+      "teaser": "When Sutro Tower went up in 1973, many neighbors hated it. Columnist Herb Caen joked it would stalk down the hill and attack the Golden Gate Bridge. Lights on its legs were removed after public outcry. It gathered TV transmitters that had been scattered across Bay Area hilltops.",
+      "source": {
+        "title": "Sutro Tower",
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia",
+        "date": "2026-10-21",
+        "url": "https://en.wikipedia.org/wiki/Sutro_Tower"
+      },
+      "photos": [],
+      "tags": [
+        "Sutro Tower",
+        "television",
+        "landmark"
+      ],
+      "verification_notes": "Single source (Wikipedia). Completed July 4, 1973. Tower sits on Clarendon Heights just above Cole Valley and the Inner Sunset.",
+      "status": "published"
+    },
+    {
+      "id": "sand-conveyor-streetcar",
+      "area": "Outer Sunset",
+      "title": "The streetcar that ate the dunes",
+      "kind": "lost_building",
+      "period": "1910",
+      "lat": 37.7524,
+      "lon": -122.4786,
+      "coords_confidence": "approximate",
+      "teaser": "In 1910 the United Railroads built a special streetcar that scooped sand from the dunes around 21st Avenue and Ortega Street and loaded it onto work cars. Sand gives steel wheels grip on rails. Muni still sands its vehicles, but the dunes were long ago built over.",
+      "source": {
+        "title": "Neighborhood Throwback: Outer Sunset Edition",
+        "author": "Jeremy Menzies",
+        "publisher": "SFMTA History in Motion",
+        "date": "2019-01-18",
+        "url": "https://sfmta.com/blog/neighborhood-throwback-outer-sunset-edition"
+      },
+      "photos": [],
+      "tags": [
+        "streetcars",
+        "dunes",
+        "Muni"
+      ],
+      "verification_notes": "Location and 1910 date from the SFMTA caption. Photos are in the SFMTA archive; no OpenSFHistory ID given.",
+      "status": "published"
+    },
+    {
+      "id": "l-taraval-opens",
+      "area": "Parkside",
+      "title": "The L Taraval begins",
+      "kind": "event",
+      "period": "April 12, 1919",
+      "lat": 37.7427,
+      "lon": -122.4915,
+      "coords_confidence": "approximate",
+      "teaser": "On April 12, 1919, small streetcars began shuttling from West Portal to Taraval and 33rd Avenue, Muni's thirteenth line. Riders transferred to the K to reach downtown. Tracks reached 48th Avenue in 1923, and a WPA extension in 1937 brought the line to 46th and Wawona, serving the zoo and pool.",
+      "source": {
+        "title": "Dunes to Destinations: 100 Years on the L Taraval",
+        "author": "Jeremy Menzies",
+        "publisher": "SFMTA History in Motion",
+        "date": "2019-04-11",
+        "url": "https://www.sfmta.com/blog/dunes-destinations-100-years-l-taraval"
+      },
+      "photos": [],
+      "tags": [
+        "L Taraval",
+        "Muni",
+        "Parkside"
+      ],
+      "verification_notes": "Dates from the SFMTA article. Pin at the original Taraval and 33rd terminal.",
+      "status": "published"
+    },
+    {
+      "id": "velodrome-baker-fell",
+      "area": "Haight",
+      "title": "The velodrome at Baker and Fell",
+      "kind": "lost_building",
+      "period": "1896 to 1897",
+      "lat": 37.7734,
+      "lon": -122.4431,
+      "coords_confidence": "approximate",
+      "teaser": "A banana shaped bicycle track and grandstand opened at Baker and Fell on November 21, 1896. Too few paying fans came, so promoters tried rugby, push ball and fireworks. The last races ran on October 3, 1897, and the track went to East Oakland. Later Southern Pacific built a hospital here.",
+      "source": {
+        "title": "Wheelmen's Panhandle Palace",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2025-02-19",
+        "url": "https://www.sanfranciscostory.com/wheelmens-panhandle-palace-2/"
+      },
+      "photos": [
+        {
+          "caption": "Looking up Lyon Street toward the velodrome area",
+          "date": "c. 1902",
+          "credit": "OpenSFHistory / Western Neighborhoods Project, wnp13.032",
+          "page_url": "https://www.opensfhistory.org/Display/wnp13.032.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp13.032.jpg"
+        },
+        {
+          "caption": "The Southern Pacific Hospital at Fell and Baker",
+          "date": "1940",
+          "credit": "OpenSFHistory / Western Neighborhoods Project, wnp37.02742",
+          "page_url": "https://www.opensfhistory.org/Display/wnp37.02742.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp37.02742.jpg"
+        }
+      ],
+      "tags": [
+        "bicycles",
+        "Panhandle",
+        "Southern Pacific"
+      ],
+      "verification_notes": "Northwest corner of Baker and Fell per SF Story. The article does not say what is on the block today.",
+      "status": "published"
+    },
+    {
+      "id": "doolan-larson-building",
+      "area": "Haight",
+      "title": "Ground zero at Haight and Ashbury",
+      "kind": "layers",
+      "period": "1903 to today",
+      "lat": 37.7702,
+      "lon": -122.4468,
+      "coords_confidence": "approximate",
+      "teaser": "This Colonial Revival corner building at Haight and Ashbury was raised in 1907 to add storefronts. In the 1960s it housed an early hippie boutique, Mnasidika, at 1510 Haight, and is tied to Janis Joplin and the Grateful Dead. The city made it a landmark in 2006.",
+      "source": {
+        "title": "San Francisco Historic Landmark: Doolan-Larson Residence and Storefronts",
+        "author": "NoeHill",
+        "publisher": "NoeHill in San Francisco",
+        "date": "",
+        "url": "https://noehill.com/SF/LANDMARKS/sf253.asp"
+      },
+      "photos": [],
+      "tags": [
+        "Haight Street",
+        "landmark",
+        "Summer of Love"
+      ],
+      "verification_notes": "Landmark 253 approved July 14, 2006 per NoeHill; Wikipedia's Haight-Ashbury article adds the National Register listing. The Joplin and Dead links are loose and not detailed in the source.",
+      "status": "published"
+    },
+    {
+      "id": "death-of-hippie",
+      "area": "Haight",
+      "title": "The funeral of the hippie",
+      "kind": "event",
+      "period": "October 6, 1967",
+      "lat": 37.77,
+      "lon": -122.4464,
+      "coords_confidence": "approximate",
+      "teaser": "On October 6, 1967, the Diggers carried a coffin down Haight Street to mark the death of the hippie. Mourners burned underground papers and clothes and knelt at Haight and Ashbury. The aim was to end media hype and the selling of the movement after the Summer of Love.",
+      "source": {
+        "title": "Death of Hippie: An end to the Summer of Love",
+        "author": "UC Santa Cruz Library",
+        "publisher": "Love on Haight exhibit",
+        "date": "",
+        "url": "https://exhibits.library.ucsc.edu/exhibits/show/love-on-haight/death-of-hippie"
+      },
+      "photos": [],
+      "tags": [
+        "Summer of Love",
+        "Diggers",
+        "1967"
+      ],
+      "verification_notes": "Funeral notice named Buena Vista Park; the procession ran down Haight Street per the exhibit. Wikipedia places the staged funeral at Buena Vista Park. Pin set at the kneel in corner.",
+      "status": "published"
+    },
+    {
+      "id": "haight-ashbury-free-clinic",
+      "area": "Haight",
+      "title": "The first free clinic",
+      "kind": "event",
+      "period": "June 7, 1967",
+      "lat": 37.7699,
+      "lon": -122.449,
+      "coords_confidence": "approximate",
+      "teaser": "As tens of thousands of young people poured into the Haight in the Summer of Love, Dr. David Smith opened a free clinic on June 7, 1967. It became the model for hundreds more across the country. Bill Graham's benefit concerts helped keep it open until it closed in 2019.",
+      "source": {
+        "title": "Haight Ashbury Free Clinic",
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia",
+        "date": "2026-10-21",
+        "url": "https://en.wikipedia.org/wiki/Haight_Ashbury_Free_Clinic"
+      },
+      "photos": [],
+      "tags": [
+        "Summer of Love",
+        "medicine",
+        "1967"
+      ],
+      "verification_notes": "Opening date confirmed by Wikipedia and 730stanyan.org. Street address was NOT confirmed in a fetched source, so the pin is only the general area of Haight and Clayton. Check before sharing.",
+      "status": "published"
+    },
+    {
+      "id": "park-branch-library",
+      "area": "Haight",
+      "title": "The city's oldest library building",
+      "kind": "layers",
+      "period": "1909 to today",
+      "lat": 37.7714,
+      "lon": -122.4512,
+      "coords_confidence": "approximate",
+      "teaser": "Opened on October 29, 1909 at 1833 Page Street, the Park Branch was the first San Francisco branch built with public money. The McDougall Brothers designed it. A mural went up in 1975 and a renovation finished in 2011, though the 1989 earthquake cost it its circular skylights.",
+      "source": {
+        "title": "Branching Out",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2026-08-05",
+        "url": "https://www.sanfranciscostory.com/branching-out/"
+      },
+      "photos": [],
+      "tags": [
+        "libraries",
+        "Haight",
+        "Carnegie"
+      ],
+      "verification_notes": "Address per SF Story; pin is approximate along Page Street. Photos exist at SFPL (AAC-5839, AAC-5848) but no stable page URL was checked.",
+      "status": "published"
+    },
+    {
+      "id": "sunset-branch-library",
+      "area": "Inner Sunset",
+      "title": "A library on an empty block",
+      "kind": "layers",
+      "period": "1918",
+      "lat": 37.7637,
+      "lon": -122.4754,
+      "coords_confidence": "approximate",
+      "teaser": "When the Sunset Branch Library opened on March 25, 1918, it stood alone on its block at Irving and 19th Avenue, built for under 44,000 dollars. The site had been an old barn that neighbors disliked because boys used it for target practice. Jefferson Elementary now fills the lot beside it.",
+      "source": {
+        "title": "Then and Now: Irving Street at 19th Avenue",
+        "author": "Sunset Beacon",
+        "publisher": "Richmond Review / Sunset Beacon",
+        "date": "2024-01-09",
+        "url": "https://richmondsunsetnews.com/2024/01/09/then-and-now-irving-street-at-19th-avenue/"
+      },
+      "photos": [],
+      "tags": [
+        "libraries",
+        "Irving Street",
+        "then and now"
+      ],
+      "verification_notes": "Opening date and cost per the Sunset Beacon caption of a 1920 photo.",
+      "status": "published"
+    },
+    {
+      "id": "tar-truck-4th-irving",
+      "area": "Inner Sunset",
+      "title": "A streetcar meets a tar truck",
+      "kind": "event",
+      "period": "c. 1940",
+      "lat": 37.764,
+      "lon": -122.4604,
+      "coords_confidence": "approximate",
+      "teaser": "Around 1940 a streetcar collided with a roofing tar truck at Fourth Avenue and Irving Street, a sticky scene someone photographed. The Sunset Beacon matched it with a modern view from the same spot, where trees and a UCSF building now stand and the parking has changed.",
+      "source": {
+        "title": "Then and Now: Fourth Avenue and Irving Street",
+        "author": "Sunset Beacon",
+        "publisher": "Richmond Review / Sunset Beacon",
+        "date": "2023-09-06",
+        "url": "https://richmondsunsetnews.com/2023/09/06/then-and-now-fourth-avenue-and-irving-street/"
+      },
+      "photos": [],
+      "tags": [
+        "streetcars",
+        "Irving Street",
+        "then and now"
+      ],
+      "verification_notes": "Thin: a single photo caption. Included as a light event card.",
+      "status": "published"
+    },
+    {
+      "id": "grateful-dead-house",
+      "area": "Haight",
+      "title": "710 Ashbury",
+      "kind": "layers",
+      "period": "mid 1960s",
+      "lat": 37.769,
+      "lon": -122.4463,
+      "coords_confidence": "approximate",
+      "teaser": "Members of the Grateful Dead shared this house at 710 Ashbury Street in the mid 1960s. In 1967 police arrested band members here for drug possession. The band answered with a press conference on the premises, arguing marijuana should be decriminalized and that local police were singling them out.",
+      "source": {
+        "title": "The Grateful Dead House",
+        "author": "Nader Wahba",
+        "publisher": "Clio",
+        "date": "2022-11-09",
+        "url": "https://theclio.com/tour/2336/2"
+      },
+      "photos": [],
+      "tags": [
+        "Grateful Dead",
+        "Haight",
+        "Summer of Love"
+      ],
+      "verification_notes": "HELD AS DRAFT: single tertiary source (Clio, citing Lonely Planet). Its own dates conflict (1965 to 1968 versus 1967). Needs a second source.",
+      "status": "draft"
+    },
+    {
+      "id": "hendrix-red-house",
+      "area": "Haight",
+      "title": "The Red House on Haight",
+      "kind": "layers",
+      "period": "1960s",
+      "lat": 37.77,
+      "lon": -122.4474,
+      "coords_confidence": "approximate",
+      "teaser": "Jimi Hendrix is believed to have lived for a time in an apartment above a shop at 1524A Haight Street, a few doors from the main intersection. The building is painted red in his honor, which gives it the name Red House. It is a private residence, so look from the street.",
+      "source": {
+        "title": "The Jimi Hendrix House (Red House)",
+        "author": "Rebecca Woodham",
+        "publisher": "Clio",
+        "date": "2017-04-30",
+        "url": "https://theclio.com/entry/38579"
+      },
+      "photos": [],
+      "tags": [
+        "Jimi Hendrix",
+        "Haight Street",
+        "music"
+      ],
+      "verification_notes": "HELD AS DRAFT: the source says details of his stay are sparse and uses hedged language. Needs a second source.",
+      "status": "draft"
     }
   ]
 }
