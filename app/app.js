@@ -277,8 +277,11 @@
     $("#here-count").textContent = inside.length + (inside.length === 1 ? " story" : " stories") + " within " + rLabel;
 
     var cards = $("#cards");
+    var picked = outside.filter(function (s) { return s.id === state.selected; })[0];
     if (inside.length) {
-      cards.replaceChildren.apply(cards, inside.map(function (s, i) { return card(s, i + 1); }));
+      var kids = inside.map(function (s, i) { return card(s, i + 1); });
+      if (picked) kids.unshift(card(picked, 0));
+      cards.replaceChildren.apply(cards, kids);
     } else {
       var shown = list.slice(0, 3);
       var note = el("div", { class: "empty" }, [

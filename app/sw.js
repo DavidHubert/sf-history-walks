@@ -1,5 +1,5 @@
 /* Keeps the app shell and story data available with a weak signal. Map tiles and photos stay online only. */
-var CACHE = "sfhw-v4";
+var CACHE = "sfhw-v5";
 var SHELL = [
   "./", "index.html", "style.css", "app.js", "lib.js", "config.js", "manifest.webmanifest",
   "vendor/leaflet/leaflet.js", "vendor/leaflet/leaflet.css", "data/stories.json",
