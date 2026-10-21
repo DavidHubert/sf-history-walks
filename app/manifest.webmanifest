@@ -1,0 +1,15 @@
+{
+  "name": "SF History Walks",
+  "short_name": "History Walks",
+  "description": "Lost buildings and stories under your feet in San Francisco.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#17262E",
+  "theme_color": "#17262E",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

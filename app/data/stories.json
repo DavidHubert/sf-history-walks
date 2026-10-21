@@ -1,0 +1,408 @@
+{
+  "schema_version": "0.3",
+  "generated": "2026-10-21",
+  "notes": "Seed set. Coordinates are approximate, taken from street intersections, and must be checked against Sanborn maps. Teasers are written in our own words; the full story lives at each source link. Photo image URLs follow the OpenSFHistory pattern and have not been fetched from the build machine, so check they load. Status is draft or published; only published stories show in the app.",
+  "stories": [
+    {
+      "id": "haight-street-grounds",
+      "area": "Haight",
+      "title": "The ballpark beside the park",
+      "kind": "lost_building",
+      "period": "1887 to 1895",
+      "lat": 37.7677,
+      "lon": -122.4523,
+      "coords_confidence": "approximate",
+      "teaser": "A semi pro ballpark filled this block next to Golden Gate Park, with cable cars running to the gate and a saloon tucked under the grandstands. About 10,000 people came for opening day in 1887. The first Stanford and California Big Games were played here before the land was sold for houses.",
+      "source": {
+        "title": "Haight Baseball",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2024-03-27",
+        "url": "https://www.sanfranciscostory.com/haight-baseball/"
+      },
+      "photos": [
+        {
+          "caption": "A game between the Haverlys and the Pioneers at the Haight Street Grounds",
+          "date": "fall 1887",
+          "credit": "J. A. Todd, OpenSFHistory / Western Neighborhoods Project, wnp33.00518",
+          "page_url": "https://www.opensfhistory.org/Display/wnp33.00518.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp33.00518.jpg"
+        },
+        {
+          "caption": "Cable cars at Haight and Stanyan, by the old ballpark entrance",
+          "date": "c. 1900",
+          "credit": "OpenSFHistory / Western Neighborhoods Project, wnp13.234",
+          "page_url": "https://www.opensfhistory.org/Display/wnp13.234.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp13.234.jpg"
+        }
+      ],
+      "tags": [
+        "baseball",
+        "Haight",
+        "cable cars",
+        "Big Game"
+      ],
+      "verification_notes": "Location per the 1889 Sanborn map as described by SF Story: Stanyan between Frederick and Waller; Wikipedia says bounded by Stanyan, Waller, Shrader and Frederick. The Big Game claim comes from Wikipedia only.",
+      "status": "published"
+    },
+    {
+      "id": "chutes-haight",
+      "area": "Haight",
+      "title": "Shoot the Chutes on Haight Street",
+      "kind": "lost_building",
+      "period": "1895 to 1902",
+      "lat": 37.77,
+      "lon": -122.4497,
+      "coords_confidence": "approximate",
+      "teaser": "A block from the park stood the Chutes, an amusement ground whose star ride sent riders down a steep slide into an artificial lake. It added a roller coaster, a zoo and a vaudeville theater, then moved to Fulton Street in 1902 and later to Fillmore and Playland.",
+      "source": {
+        "title": "Architecture Spotlight: Chutes in the Haight",
+        "author": "Untapped Cities",
+        "publisher": "Untapped Cities",
+        "date": "",
+        "url": "https://www.untappedcities.com/architecture-spotlight-chutes-in-the-haight/"
+      },
+      "photos": [],
+      "tags": [
+        "amusements",
+        "Haight"
+      ],
+      "verification_notes": "Between Clayton and Cole on Haight per Untapped Cities. Add a second source and an OpenSFHistory photo.",
+      "status": "published"
+    },
+    {
+      "id": "straight-theater",
+      "area": "Haight",
+      "title": "From movie house to rock dances",
+      "kind": "lost_building",
+      "period": "1910 to 1979",
+      "lat": 37.77005,
+      "lon": -122.4508,
+      "coords_confidence": "approximate",
+      "teaser": "A neighborhood movie theater opened on this corner in 1910 and later grew to about 1,500 seats. After it stopped showing films in 1964 it became the Straight Theater, a home for 1960s rock dances. The building was torn down in the late 1970s and a Goodwill stands here now.",
+      "source": {
+        "title": "Haight Theatre",
+        "author": "Cinema Treasures contributors",
+        "publisher": "Cinema Treasures",
+        "date": "",
+        "url": "https://www.cinematreasures.org/theaters/1951"
+      },
+      "photos": [],
+      "tags": [
+        "theaters",
+        "1960s",
+        "Haight"
+      ],
+      "verification_notes": "1702 Haight at Cole. Demolition is given as August 1979 in the main article and 1981 in comments; confirm. Dates and events of the Straight Theater period (1966 to 1967) need a second source such as the Straight Theater history site.",
+      "status": "published"
+    },
+    {
+      "id": "psychedelic-shop",
+      "area": "Haight",
+      "title": "The Psychedelic Shop",
+      "kind": "lost_building",
+      "period": "1966 to 1967",
+      "lat": 37.7698,
+      "lon": -122.4474,
+      "coords_confidence": "approximate",
+      "teaser": "Brothers Jay and Ron Thelin opened a head shop at 1535 Haight Street in January 1966, selling incense, posters, records and clothing. It became a gathering place for the counterculture. They closed it for good on October 6, 1967, the day of the Death of Hippie ceremony, and gave away what was left.",
+      "source": {
+        "title": "This Day in Cannabis History: the Psychedelic Shop",
+        "author": "World of Cannabis Museum",
+        "publisher": "World of Cannabis Museum",
+        "date": "",
+        "url": "https://www.worldofcannabis.museum/post/tdich-jan-3-psychedelicshop"
+      },
+      "photos": [],
+      "tags": [
+        "1967",
+        "Summer of Love",
+        "Haight"
+      ],
+      "verification_notes": "Address from the museum page; the exact spot on the block needs checking. The Death of Hippie date (Oct 6, 1967, Buena Vista Park) comes from Wikipedia's Haight-Ashbury article. Find a stronger historical source.",
+      "status": "published"
+    },
+    {
+      "id": "other-cafe",
+      "area": "Cole Valley",
+      "title": "The comedy club at Carl and Cole",
+      "kind": "lost_building",
+      "period": "1980s",
+      "lat": 37.7656,
+      "lon": -122.4497,
+      "coords_confidence": "approximate",
+      "teaser": "In the 1980s The Other Cafe at 100 Carl Street became a full time comedy club and an early stage for comics including Robin Williams, Dana Carvey and Whoopi Goldberg. The corner now holds a crepe restaurant.",
+      "source": {
+        "title": "Haight-Ashbury",
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia",
+        "date": "",
+        "url": "https://en.wikipedia.org/wiki/Haight-Ashbury"
+      },
+      "photos": [],
+      "tags": [
+        "comedy",
+        "Cole Valley",
+        "1980s"
+      ],
+      "verification_notes": "Single source (Wikipedia). Confirm the performers and that the tenant is still Crepes on Cole. Look for a Western Neighborhoods Project or newspaper source.",
+      "status": "published"
+    },
+    {
+      "id": "parnassus-1906",
+      "area": "Cole Valley",
+      "title": "The college that became a hospital",
+      "kind": "event",
+      "period": "1906 to 1907",
+      "lat": 37.7632,
+      "lon": -122.4578,
+      "coords_confidence": "approximate",
+      "teaser": "Doctors and students from the Affiliated Colleges on this slope helped run relief care after the 1906 earthquake, while the Army ran a field hospital in Golden Gate Park. The disaster pushed a planned teaching hospital to the top of the list, and the first UC Hospital opened here in April 1907.",
+      "source": {
+        "title": "1906 earthquake spurs rapid response at Parnassus",
+        "author": "UCSF",
+        "publisher": "UCSF News",
+        "date": "2006-04",
+        "url": "https://www.ucsf.edu/news/2006/04/101785/1906-earthquake-spurs-rapid-response-parnassus"
+      },
+      "photos": [],
+      "tags": [
+        "1906 earthquake",
+        "UCSF",
+        "hospitals"
+      ],
+      "verification_notes": "UCSF Library's history site (history.library.ucsf.edu) has period photos with open reuse notes; add one.",
+      "status": "published"
+    },
+    {
+      "id": "midwinter-fair",
+      "area": "Golden Gate Park",
+      "title": "The world's fair in the park",
+      "kind": "event",
+      "period": "1894",
+      "lat": 37.7703,
+      "lon": -122.4686,
+      "coords_confidence": "approximate",
+      "teaser": "In 1894 a fair of about 200 acres filled the park around today's Music Concourse, with roughly 120 buildings and more than two million visitors. Most of it was taken down afterward, but the Japanese Tea Garden and the Concourse were kept.",
+      "source": {
+        "title": "125 years ago: Midwinter International Exposition in Golden Gate Park",
+        "author": "Richmond Review and Sunset Beacon",
+        "publisher": "Richmond Sunset News",
+        "date": "2019-08-03",
+        "url": "https://richmondsunsetnews.com/2019/08/03/125-years-ago-midwinter-international-exposition-in-golden-gate-park/"
+      },
+      "photos": [],
+      "tags": [
+        "1894",
+        "Golden Gate Park",
+        "world's fair"
+      ],
+      "verification_notes": "Opening day photo is by Isaiah West Taber via the Western Neighborhoods Project; find its OpenSFHistory id.",
+      "status": "published"
+    },
+    {
+      "id": "streetcar-boneyard",
+      "area": "Inner Sunset",
+      "title": "The streetcar graveyard",
+      "kind": "lost_building",
+      "period": "1907 to the 1940s",
+      "lat": 37.7648,
+      "lon": -122.4713,
+      "coords_confidence": "approximate",
+      "teaser": "This whole block between Irving, Lincoln Way, 14th and Funston was once a yard where retired streetcars waited for the scrapper among the Sunset sand. It was planned as a carhouse in 1907 and later served Muni as a storage lot.",
+      "source": {
+        "title": "The Inner Sunset's Streetcar Graveyard",
+        "author": "SFMTA",
+        "publisher": "SFMTA History in Motion blog",
+        "date": "2016-10-27",
+        "url": "https://www.sfmta.com/blog/inner-sunsets-streetcar-graveyard"
+      },
+      "photos": [
+        {
+          "caption": "Aerial view of the streetcar boneyard, looking west on Irving at 14th Avenue",
+          "date": "1942-08-07",
+          "credit": "Via SFMTA blog; original source to confirm",
+          "page_url": "https://www.sfmta.com/blog/inner-sunsets-streetcar-graveyard",
+          "image_url": null
+        }
+      ],
+      "tags": [
+        "streetcars",
+        "Inner Sunset",
+        "Muni"
+      ],
+      "verification_notes": "The SFMTA post points to a Western Neighborhoods Project article and podcast episode 182; make that the primary source.",
+      "status": "published"
+    },
+    {
+      "id": "irving-9th-corner",
+      "area": "Inner Sunset",
+      "title": "Many lives of a corner",
+      "kind": "layers",
+      "period": "1970s to today",
+      "lat": 37.7642,
+      "lon": -122.4658,
+      "coords_confidence": "approximate",
+      "teaser": "In the early 1970s the southeast corner of Ninth and Irving held a bar called The Stein, also known as Mac's Place, with green streetcars rattling past. A Jamba Juice came later, and a French chicken sandwich restaurant was announced for the space in 2025.",
+      "source": {
+        "title": "Then and Now: Ninth Avenue and Irving Street",
+        "author": "Richmond Review and Sunset Beacon",
+        "publisher": "Richmond Sunset News",
+        "date": "2025-09-07",
+        "url": "https://richmondsunsetnews.com/2025/09/07/then-and-now-ninth-avenue-and-irving-street/"
+      },
+      "photos": [
+        {
+          "caption": "Mac's Place, The Stein, on the southeast corner of Ninth Avenue and Irving Street (postcard)",
+          "date": "c. 1973",
+          "credit": "Private collector / Western Neighborhoods Project / OpenSFHistory",
+          "page_url": "https://richmondsunsetnews.com/2025/09/07/then-and-now-ninth-avenue-and-irving-street/",
+          "image_url": null
+        }
+      ],
+      "tags": [
+        "Inner Sunset",
+        "then and now",
+        "bars"
+      ],
+      "verification_notes": "Check whether the French restaurant opened as announced before showing the last sentence.",
+      "status": "published"
+    },
+    {
+      "id": "arizmendi-1904",
+      "area": "Inner Sunset",
+      "title": "The bakery's earlier self",
+      "kind": "layers",
+      "period": "1904 to today",
+      "lat": 37.7629,
+      "lon": -122.4659,
+      "coords_confidence": "approximate",
+      "teaser": "In November 1904 this Ninth Avenue building, between Irving and Judah, looked very different from the busy bakery it holds today at 1331 Ninth Avenue. A photo from the neighborhood archive shows it in its early days.",
+      "source": {
+        "title": "Historical Photo: Popular Inner Sunset shop long before customer lines",
+        "author": "Richmond Review and Sunset Beacon",
+        "publisher": "Richmond Sunset News",
+        "date": "2020-11-04",
+        "url": "https://richmondsunsetnews.com/2020/11/04/historical-photo-inner-sunset-long-before-customer-lines/"
+      },
+      "photos": [
+        {
+          "caption": "The Ninth Avenue building between Irving and Judah, November 1904",
+          "date": "1904-11",
+          "credit": "Private collector / Western Neighborhoods Project / OpenSFHistory",
+          "page_url": "https://richmondsunsetnews.com/2020/11/04/historical-photo-inner-sunset-long-before-customer-lines/",
+          "image_url": null
+        }
+      ],
+      "tags": [
+        "Inner Sunset",
+        "then and now"
+      ],
+      "verification_notes": "Light entry. Find the story of the building's first occupant before publishing.",
+      "status": "published"
+    },
+    {
+      "id": "nursery-lake-14th",
+      "area": "Richmond",
+      "title": "The orphanage on the dunes",
+      "kind": "lost_building",
+      "period": "1905 to 1906",
+      "lat": 37.7869,
+      "lon": -122.4713,
+      "coords_confidence": "approximate",
+      "teaser": "In 1905 a purpose built brick home for children opened here, out among the sand dunes. Seven months later the 1906 earthquake wrecked it, yet every one of the 59 children inside got out unhurt. They camped on the dunes for twelve days.",
+      "source": {
+        "title": "Home on the Dunes",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2026-10-21",
+        "url": "https://www.sanfranciscostory.com/home-on-the-dunes/"
+      },
+      "photos": [
+        {
+          "caption": "The Nursery for Homeless Children on the north side of Lake Street between 14th and 15th Avenues",
+          "date": "c. 1905",
+          "credit": "San Francisco Public Library, AAD-5883",
+          "page_url": "https://www.sanfranciscostory.com/home-on-the-dunes/",
+          "image_url": null
+        }
+      ],
+      "tags": [
+        "1906 earthquake",
+        "children",
+        "Richmond",
+        "dunes"
+      ],
+      "verification_notes": "A 1906 newspaper transcription places the Nursery at 13th and Lake; annual reports and SF Story say 14th. Confirm on the Sanborn map.",
+      "status": "published"
+    },
+    {
+      "id": "kip-orphanage-lake-7th",
+      "area": "Richmond",
+      "title": "The orphanage that fell apart",
+      "kind": "lost_building",
+      "period": "1906",
+      "lat": 37.7868,
+      "lon": -122.4643,
+      "coords_confidence": "approximate",
+      "teaser": "A few blocks east stood the Maria Kip Orphanage, which a 1906 report called the most complete ruin among the city's children's homes. All 125 children inside at the moment of the quake survived.",
+      "source": {
+        "title": "Every institution in the city for care of children damaged",
+        "author": "1906 newspaper account, transcribed",
+        "publisher": "Museum of the City of San Francisco",
+        "date": "1906-04",
+        "url": "https://sfmuseum.org/1906.2/orphans.html"
+      },
+      "photos": [
+        {
+          "caption": "The Maria Kip Orphanage, Lake Street near 7th Avenue, damaged after the 1906 earthquake",
+          "date": "1906",
+          "credit": "Harry O. Wood, Bancroft Library, UC Berkeley, BANC PIC 1957.007 Ser.1:115",
+          "page_url": "https://www.sanfranciscostory.com/home-on-the-dunes/",
+          "image_url": null
+        }
+      ],
+      "tags": [
+        "1906 earthquake",
+        "children",
+        "Richmond"
+      ],
+      "verification_notes": "Confirm the 125 figure and the building's later fate in a second source.",
+      "status": "published"
+    },
+    {
+      "id": "bauchou-farm-14th",
+      "area": "Richmond",
+      "title": "The farm at the edge of the Presidio",
+      "kind": "lost_building",
+      "period": "c. 1900 to 1905",
+      "lat": 37.7873,
+      "lon": -122.4708,
+      "coords_confidence": "approximate",
+      "teaser": "Before the avenues filled in, a small farm ran along the Presidio boundary here. The Bauchou family lived at 9 14th Avenue, and in 1905 they were the new orphanage's nearest neighbors, with Mountain Lake visible down the slope.",
+      "source": {
+        "title": "Home on the Dunes",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2026-10-21",
+        "url": "https://www.sanfranciscostory.com/home-on-the-dunes/"
+      },
+      "photos": [
+        {
+          "caption": "Bauchou home on 14th Avenue, view east toward Mountain Lake",
+          "date": "c. 1900",
+          "credit": "OpenSFHistory / Western Neighborhoods Project, wnp15.207",
+          "page_url": "https://www.opensfhistory.org/Display/wnp15.207.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp15.207.jpg"
+        }
+      ],
+      "tags": [
+        "farms",
+        "Presidio",
+        "Mountain Lake"
+      ],
+      "verification_notes": "OpenSFHistory caption names Bernard Bauchou as the occupant of 9 14th Avenue.",
+      "status": "published"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "schema_version": "0.1",
+  "generated": "2026-10-21",
+  "notes": "Seed set for the prototype. Coordinates are approximate (derived from street intersections) and must be verified against Sanborn maps before any public use. Teasers are written in our own words; full stories live at the source link.",
+  "stories": [
+    {
+      "id": "nursery-lake-14th",
+      "title": "The orphanage on the dunes",
+      "kind": "lost_building",
+      "period": "1905 to 1906",
+      "lat": 37.7869,
+      "lon": -122.4713,
+      "coords_confidence": "approximate",
+      "teaser": "In 1905 a purpose built brick home for children opened here, out among the sand dunes. Seven months later the 1906 earthquake wrecked it, yet every one of the 59 children inside got out unhurt. They camped on the dunes for twelve days.",
+      "source": {
+        "title": "Home on the Dunes",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2026-10-21",
+        "url": "https://www.sanfranciscostory.com/home-on-the-dunes/"
+      },
+      "photos": [
+        {
+          "caption": "The Nursery for Homeless Children on the north side of Lake Street between 14th and 15th Avenues",
+          "date": "c. 1905",
+          "credit": "San Francisco Public Library, AAD-5883",
+          "rights": "check with SFPL",
+          "page_url": "https://www.sanfranciscostory.com/home-on-the-dunes/",
+          "image_url": null
+        }
+      ],
+      "tags": ["1906 earthquake", "children", "Richmond", "dunes"],
+      "verification_notes": "Contemporary 1906 newspaper text on sfmuseum.org places the Nursery at Thirteenth Avenue and Lake Street, while later annual reports and the SF Story article say 14th Avenue. Treat 14th and Lake as correct, confirm on the Sanborn map."
+    },
+    {
+      "id": "kip-orphanage-lake-7th",
+      "title": "The orphanage that fell apart",
+      "kind": "lost_building",
+      "period": "1906",
+      "lat": 37.7868,
+      "lon": -122.4643,
+      "coords_confidence": "approximate",
+      "teaser": "A few blocks east stood the Maria Kip Orphanage, which a 1906 report called the most complete ruin among the city's children's homes. All 125 children inside at the moment of the quake survived.",
+      "source": {
+        "title": "Every institution in the city for care of children damaged",
+        "author": "1906 newspaper account, transcribed",
+        "publisher": "Museum of the City of San Francisco (sfmuseum.org)",
+        "date": "1906-04",
+        "url": "https://sfmuseum.org/1906.2/orphans.html"
+      },
+      "photos": [
+        {
+          "caption": "The Maria Kip Orphanage, Lake Street near 7th Avenue, damaged after the 1906 earthquake",
+          "date": "1906",
+          "credit": "Harry O. Wood, Bancroft Library, UC Berkeley, BANC PIC 1957.007 Ser.1:115",
+          "rights": "check with Bancroft Library",
+          "page_url": "https://www.sanfranciscostory.com/home-on-the-dunes/",
+          "image_url": null
+        }
+      ],
+      "tags": ["1906 earthquake", "children", "Richmond"],
+      "verification_notes": "Claims come from the transcribed 1906 article; confirm the 125 figure and the building's later fate in a second source."
+    },
+    {
+      "id": "bauchou-farm-14th",
+      "title": "The farm at the edge of the Presidio",
+      "kind": "lost_building",
+      "period": "c. 1900 to 1905",
+      "lat": 37.7873,
+      "lon": -122.4708,
+      "coords_confidence": "approximate",
+      "teaser": "Before the avenues filled in, a small farm ran along the Presidio boundary here. The Bauchou family lived at 9 14th Avenue, and in 1905 they were the new orphanage's nearest neighbors, with Mountain Lake visible down the slope.",
+      "source": {
+        "title": "Home on the Dunes",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2026-10-21",
+        "url": "https://www.sanfranciscostory.com/home-on-the-dunes/"
+      },
+      "photos": [
+        {
+          "caption": "Bauchou home on 14th Avenue, view east toward Mountain Lake",
+          "date": "c. 1900",
+          "credit": "OpenSFHistory / Western Neighborhoods Project, wnp15.207",
+          "rights": "ask WNP before public use",
+          "page_url": "https://www.opensfhistory.org/Display/wnp15.207.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/700/wnp15.207.jpg"
+        }
+      ],
+      "tags": ["farms", "Presidio", "Mountain Lake"],
+      "verification_notes": "Image URL follows the OpenSFHistory pattern seen on other items; confirm it loads. OpenSFHistory caption names Bernard Bauchou as the occupant of 9 14th Avenue."
+    },
+    {
+      "id": "streetcar-boneyard",
+      "title": "The streetcar graveyard",
+      "kind": "lost_building",
+      "period": "1907 to the 1940s",
+      "lat": 37.7648,
+      "lon": -122.4713,
+      "coords_confidence": "approximate",
+      "teaser": "This whole block between Irving, Lincoln Way, 14th and Funston was once a yard where retired streetcars waited for the scrapper, among the sand of the Sunset. It was planned as a carhouse in 1907 and later served Muni as a storage lot.",
+      "source": {
+        "title": "The Inner Sunset's Streetcar Graveyard",
+        "author": "SFMTA",
+        "publisher": "SFMTA History in Motion blog",
+        "date": "2016-10-27",
+        "url": "https://www.sfmta.com/blog/inner-sunsets-streetcar-graveyard"
+      },
+      "photos": [
+        {
+          "caption": "Aerial view of the Market Street Railway boneyard, looking west on Irving at 14th Avenue",
+          "date": "1942-08-07",
+          "credit": "via SFMTA blog; original source to confirm",
+          "rights": "confirm",
+          "page_url": "https://www.sfmta.com/blog/inner-sunsets-streetcar-graveyard",
+          "image_url": null
+        }
+      ],
+      "tags": ["streetcars", "Inner Sunset", "Muni"],
+      "verification_notes": "The SFMTA post points to a Western Neighborhoods Project article and podcast episode 182 for more; find that WNP page and make it the primary source."
+    },
+    {
+      "id": "irving-9th-corner",
+      "title": "Many lives of a corner",
+      "kind": "layers",
+      "period": "1970s to today",
+      "lat": 37.7642,
+      "lon": -122.4666,
+      "coords_confidence": "approximate",
+      "teaser": "In the early 1970s the southeast corner of Ninth and Irving held a bar called The Stein, also known as Mac's Place, served by green streetcars. A Jamba Juice came later, and a French chicken sandwich restaurant was announced for the space in 2025.",
+      "source": {
+        "title": "Then and Now: Ninth Avenue and Irving Street",
+        "author": "Richmond Review and Sunset Beacon",
+        "publisher": "Richmond Sunset News",
+        "date": "2025-09-07",
+        "url": "https://richmondsunsetnews.com/2025/09/07/then-and-now-ninth-avenue-and-irving-street/"
+      },
+      "photos": [
+        {
+          "caption": "Mac's Place, The Stein, on the southeast corner of Ninth Avenue and Irving Street (postcard)",
+          "date": "c. 1973",
+          "credit": "Private collector / Western Neighborhoods Project / OpenSFHistory",
+          "rights": "ask WNP before public use",
+          "page_url": "https://richmondsunsetnews.com/2025/09/07/then-and-now-ninth-avenue-and-irving-street/",
+          "image_url": null
+        }
+      ],
+      "tags": ["Inner Sunset", "then and now", "bars"],
+      "verification_notes": "Lighter story for the Inner Sunset. Check whether the French restaurant opened as announced before showing the last sentence."
+    }
+  ]
+}
