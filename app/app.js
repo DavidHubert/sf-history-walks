@@ -41,11 +41,33 @@
   /* ---------- map ---------- */
   var map = L.map("map", { zoomControl: false, tap: true }).setView([state.me.lat, state.me.lon], 16);
   L.control.zoom({ position: "bottomright" }).addTo(map);
-  // OpenStreetMap's own tiles: no key, fine for personal use. Switch provider before wider sharing.
-  L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    maxZoom: 19,
-    attribution: "&copy; OpenStreetMap contributors"
-  }).addTo(map);
+  // Base map: OpenFreeMap vector tiles (free, no key) drawn with MapLibre inside Leaflet.
+  // If WebGL or the style is unavailable, fall back to plain OpenStreetMap raster tiles.
+  var MAP_STYLE = (window.HW_CONFIG && window.HW_CONFIG.mapStyle) || "liberty";
+  var baseLayer = null;
+  function useRaster() {
+    if (baseLayer) map.removeLayer(baseLayer);
+    baseLayer = L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      maxZoom: 19, attribution: "&copy; OpenStreetMap contributors"
+    }).addTo(map);
+  }
+  function hasWebGL() {
+    try { var c = document.createElement("canvas"); return !!(c.getContext("webgl2") || c.getContext("webgl")); } catch (e) { return false; }
+  }
+  if (window.maplibregl && L.maplibreGL && hasWebGL()) {
+    try {
+      baseLayer = L.maplibreGL({
+        style: "https://tiles.openfreemap.org/styles/" + MAP_STYLE,
+        attribution: '<a href="https://openfreemap.org" target="_blank" rel="noopener">OpenFreeMap</a> &copy; <a href="https://openmaptiles.org/" target="_blank" rel="noopener">OpenMapTiles</a> Data from <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>'
+      }).addTo(map);
+      var gl = baseLayer.getMaplibreMap(), glLoaded = false;
+      gl.once("load", function () { glLoaded = true; });
+      gl.on("error", function () { if (!glLoaded) { glLoaded = true; useRaster(); } });
+      setTimeout(function () { if (!glLoaded) { glLoaded = true; useRaster(); } }, 12000);
+    } catch (e) { useRaster(); }
+  } else {
+    useRaster();
+  }
   var storyLayer = L.layerGroup().addTo(map);
   var radiusCircle = L.circle([state.me.lat, state.me.lon], { radius: state.radius, color: "#1B6A73", weight: 1.5, dashArray: "5 5", fillOpacity: 0.04, interactive: false }).addTo(map);
   var accCircle = L.circle([state.me.lat, state.me.lon], { radius: 0, color: "#1B6A73", weight: 1, fillOpacity: 0.08, interactive: false }).addTo(map);

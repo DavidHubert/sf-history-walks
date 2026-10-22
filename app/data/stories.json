@@ -26,14 +26,14 @@
           "date": "fall 1887",
           "credit": "J. A. Todd, OpenSFHistory / Western Neighborhoods Project, wnp33.00518",
           "page_url": "https://www.opensfhistory.org/Display/wnp33.00518.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp33.00518.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp33.00518.jpg"
         },
         {
           "caption": "Cable cars at Haight and Stanyan, by the old ballpark entrance",
           "date": "c. 1900",
           "credit": "OpenSFHistory / Western Neighborhoods Project, wnp13.234",
           "page_url": "https://www.opensfhistory.org/Display/wnp13.234.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp13.234.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp13.234.jpg"
         }
       ],
       "tags": [
@@ -51,9 +51,9 @@
       "title": "Shoot the Chutes on Haight Street",
       "kind": "lost_building",
       "period": "1895 to 1902",
-      "lat": 37.77,
-      "lon": -122.4497,
-      "coords_confidence": "approximate",
+      "lat": 37.7692,
+      "lon": -122.4504,
+      "coords_confidence": "from archive map point",
       "teaser": "A block from the park stood the Chutes, an amusement ground whose star ride sent riders down a steep slide into an artificial lake. It added a roller coaster, a zoo and a vaudeville theater, then moved to Fulton Street in 1902 and later to Fillmore and Playland.",
       "source": {
         "title": "Architecture Spotlight: Chutes in the Haight",
@@ -62,12 +62,20 @@
         "date": "",
         "url": "https://www.untappedcities.com/architecture-spotlight-chutes-in-the-haight/"
       },
-      "photos": [],
+      "photos": [
+        {
+          "caption": "The waterslide at the Haight Chutes on opening day",
+          "date": "1895",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp26.1133",
+          "page_url": "https://www.opensfhistory.org/Display/wnp26.1133.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp26.1133.jpg"
+        }
+      ],
       "tags": [
         "amusements",
         "Haight"
       ],
-      "verification_notes": "Between Clayton and Cole on Haight per Untapped Cities. Add a second source and an OpenSFHistory photo.",
+      "verification_notes": "Between Clayton and Cole on Haight per Untapped Cities. Add a second source and an OpenSFHistory photo. OpenSFHistory describes the site as bounded by Haight, Waller, Cole and Clayton, and places it at 37.7692, -122.4504. A second text source is still wanted.",
       "status": "published"
     },
     {
@@ -87,13 +95,28 @@
         "date": "",
         "url": "https://www.cinematreasures.org/theaters/1951"
       },
-      "photos": [],
+      "photos": [
+        {
+          "caption": "The closed Haight Theatre at Haight and Cole before its summer 1979 demolition",
+          "date": "May 1979",
+          "credit": "Greg Gaar, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp67.0095",
+          "page_url": "https://www.opensfhistory.org/Display/wnp67.0095.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp67.0095.jpg"
+        },
+        {
+          "caption": "Haight Theatre ad for August 2, 1914",
+          "date": "1914",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp67.0039",
+          "page_url": "https://www.opensfhistory.org/Display/wnp67.0039.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp67.0039.jpg"
+        }
+      ],
       "tags": [
         "theaters",
         "1960s",
         "Haight"
       ],
-      "verification_notes": "1702 Haight at Cole. Demolition is given as August 1979 in the main article and 1981 in comments; confirm. Dates and events of the Straight Theater period (1966 to 1967) need a second source such as the Straight Theater history site.",
+      "verification_notes": "1702 Haight at Cole. Demolition is given as August 1979 in the main article and 1981 in comments; confirm. Dates and events of the Straight Theater period (1966 to 1967) need a second source such as the Straight Theater history site. The OpenSFHistory caption for the May 1979 photo says the theatre was demolished in summer 1979, which supports the 1979 date over 1981.",
       "status": "published"
     },
     {
@@ -191,7 +214,22 @@
         "date": "2019-08-03",
         "url": "https://richmondsunsetnews.com/2019/08/03/125-years-ago-midwinter-international-exposition-in-golden-gate-park/"
       },
-      "photos": [],
+      "photos": [
+        {
+          "caption": "Crowd at the first shovelful of sand for the Midwinter Fair site",
+          "date": "August 24, 1893",
+          "credit": "Isaiah West Taber, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp37.01330",
+          "page_url": "https://www.opensfhistory.org/Display/wnp37.01330.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp37.01330.jpg"
+        },
+        {
+          "caption": "The Bonet Electric Tower at the Midwinter Fair",
+          "date": "1894",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp15.075",
+          "page_url": "https://www.opensfhistory.org/Display/wnp15.075.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp15.075.jpg"
+        }
+      ],
       "tags": [
         "1894",
         "Golden Gate Park",
@@ -253,6 +291,13 @@
       },
       "photos": [
         {
+          "caption": "Ninth Avenue and Irving Street with a dentist above a pharmacy",
+          "date": "c. 1910",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp14.11201",
+          "page_url": "https://www.opensfhistory.org/Display/wnp14.11201.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp14.11201.jpg"
+        },
+        {
           "caption": "Mac's Place, The Stein, on the southeast corner of Ninth Avenue and Irving Street (postcard)",
           "date": "c. 1973",
           "credit": "Private collector / Western Neighborhoods Project / OpenSFHistory",
@@ -286,6 +331,13 @@
         "url": "https://richmondsunsetnews.com/2020/11/04/historical-photo-inner-sunset-long-before-customer-lines/"
       },
       "photos": [
+        {
+          "caption": "9th Avenue near Irving, the site of today's Arizmendi Bakery",
+          "date": "November 20, 1904",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp27.4162",
+          "page_url": "https://www.opensfhistory.org/Display/wnp27.4162.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp27.4162.jpg"
+        },
         {
           "caption": "The Ninth Avenue building between Irving and Judah, November 1904",
           "date": "1904-11",
@@ -393,7 +445,7 @@
           "date": "c. 1900",
           "credit": "OpenSFHistory / Western Neighborhoods Project, wnp15.207",
           "page_url": "https://www.opensfhistory.org/Display/wnp15.207.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp15.207.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp15.207.jpg"
         }
       ],
       "tags": [
@@ -453,7 +505,7 @@
           "date": "1990",
           "credit": "Greg Gaar, OpenSFHistory / Western Neighborhoods Project, wnp72.16436",
           "page_url": "https://www.opensfhistory.org/Display/wnp72.16436.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp72.16436.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp72.16436.jpg"
         }
       ],
       "tags": [
@@ -487,14 +539,14 @@
           "date": "c. 1893",
           "credit": "Isaiah West Taber, OpenSFHistory / Western Neighborhoods Project, wnp26.397",
           "page_url": "https://www.opensfhistory.org/Display/wnp26.397.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp26.397.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp26.397.jpg"
         },
         {
           "caption": "The observatory in ruins after the earthquake",
           "date": "April 18, 1906",
           "credit": "James Stoddard, OpenSFHistory / Western Neighborhoods Project, wnp27.5474",
           "page_url": "https://www.opensfhistory.org/Display/wnp27.5474.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp27.5474.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp27.5474.jpg"
         }
       ],
       "tags": [
@@ -528,7 +580,7 @@
           "date": "April 1906",
           "credit": "OpenSFHistory / Western Neighborhoods Project, wnp15.1265",
           "page_url": "https://www.opensfhistory.org/Display/wnp15.1265.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp15.1265.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp15.1265.jpg"
         }
       ],
       "tags": [
@@ -588,7 +640,7 @@
           "date": "February 24, 1930",
           "credit": "Emiliano Echeverria, Randolph Brandt Collection, OpenSFHistory / Western Neighborhoods Project, wnp30.0124",
           "page_url": "https://www.opensfhistory.org/Display/wnp30.0124.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp30.0124.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp30.0124.jpg"
         }
       ],
       "tags": [
@@ -645,17 +697,17 @@
       "photos": [
         {
           "caption": "View from Strawberry Hill over the western dunes",
-          "date": "1880s",
+          "date": "July 1886",
           "credit": "Charles Turrill, OpenSFHistory / Western Neighborhoods Project, wnp27.4937",
           "page_url": "https://www.opensfhistory.org/Display/wnp27.4937.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp27.4937.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp27.4937.jpg"
         },
         {
           "caption": "The Inner Sunset seen from Mount Sutro",
-          "date": "c. 1901",
+          "date": "1901",
           "credit": "W. C. Billington, OpenSFHistory / Western Neighborhoods Project, wnp15.569",
           "page_url": "https://www.opensfhistory.org/Display/wnp15.569.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp15.569.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp15.569.jpg"
         }
       ],
       "tags": [
@@ -689,14 +741,14 @@
           "date": "c. 1900",
           "credit": "Charles Turrill, OpenSFHistory / Western Neighborhoods Project, wnp26.713",
           "page_url": "https://www.opensfhistory.org/Display/wnp26.713.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp26.713.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp26.713.jpg"
         },
         {
           "caption": "Fresh paving near Quintara Street",
           "date": "August 12, 1916",
           "credit": "Horace Chaffee, Department of Public Works, OpenSFHistory / Western Neighborhoods Project, wnp36.01322",
           "page_url": "https://www.opensfhistory.org/Display/wnp36.01322.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp36.01322.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp36.01322.jpg"
         }
       ],
       "tags": [
@@ -730,14 +782,14 @@
           "date": "1925",
           "credit": "OpenSFHistory / Western Neighborhoods Project, wnp15.1412",
           "page_url": "https://www.opensfhistory.org/Display/wnp15.1412.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp15.1412.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp15.1412.jpg"
         },
         {
           "caption": "Children at the wading pool",
           "date": "1925",
           "credit": "Gabriel Moulin, OpenSFHistory / Western Neighborhoods Project, wnp27.4762",
           "page_url": "https://www.opensfhistory.org/Display/wnp27.4762.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp27.4762.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp27.4762.jpg"
         }
       ],
       "tags": [
@@ -771,14 +823,14 @@
           "date": "1920s",
           "credit": "OpenSFHistory / Western Neighborhoods Project, wnp37.03678",
           "page_url": "https://www.opensfhistory.org/Display/wnp37.03678.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp37.03678.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp37.03678.jpg"
         },
         {
           "caption": "View past the turtle pond",
           "date": "1930s",
           "credit": "OpenSFHistory / Western Neighborhoods Project, wnp26.1604",
           "page_url": "https://www.opensfhistory.org/Display/wnp26.1604.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp26.1604.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp26.1604.jpg"
         }
       ],
       "tags": [
@@ -838,14 +890,14 @@
           "date": "August 19, 1957",
           "credit": "OpenSFHistory / Western Neighborhoods Project, wnp14.2963",
           "page_url": "https://www.opensfhistory.org/Display/wnp14.2963.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp14.2963.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp14.2963.jpg"
         },
         {
           "caption": "The engine backs into the playground",
           "date": "August 1957",
           "credit": "OpenSFHistory / Western Neighborhoods Project, wnp14.2964",
           "page_url": "https://www.opensfhistory.org/Display/wnp14.2964.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp14.2964.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp14.2964.jpg"
         }
       ],
       "tags": [
@@ -873,7 +925,15 @@
         "date": "2026-10-21",
         "url": "https://en.wikipedia.org/wiki/Fleishhacker_Pool"
       },
-      "photos": [],
+      "photos": [
+        {
+          "caption": "View south toward the Fleishhacker Pool site from the foot of Sloat Boulevard",
+          "date": "August 18, 1924",
+          "credit": "Horace Chaffee, SF Department of Public Works, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp36.02798",
+          "page_url": "https://www.opensfhistory.org/Display/wnp36.02798.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp36.02798.jpg"
+        }
+      ],
       "tags": [
         "swimming",
         "San Francisco Zoo",
@@ -888,9 +948,9 @@
       "title": "Opening day for the Sunset Tunnel",
       "kind": "event",
       "period": "October 21, 1928",
-      "lat": 37.7656,
-      "lon": -122.4493,
-      "coords_confidence": "approximate",
+      "lat": 37.7661,
+      "lon": -122.449,
+      "coords_confidence": "from archive map point",
       "teaser": "On October 21, 1928, thousands came to the western portal at Carl and Cole to watch Mayor Sunny Jim Rolph pilot a streetcar through the new tunnel. The line to the ocean made the Sunset practical to live in. Digging had begun in 1926 and cost about 1.5 million dollars.",
       "source": {
         "title": "N Judah turns 87",
@@ -899,13 +959,28 @@
         "date": "2015-10-15",
         "url": "https://www.sfmta.com/blog/n-judah-turns-87"
       },
-      "photos": [],
+      "photos": [
+        {
+          "caption": "Mayor James Rolph at the controls of the first N line streetcar through the tunnel, near Carl and Cole",
+          "date": "October 21, 1928",
+          "credit": "Horace Chaffee, SF Department of Public Works, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp27.0493",
+          "page_url": "https://www.opensfhistory.org/Display/wnp27.0493.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp27.0493.jpg"
+        },
+        {
+          "caption": "Tunnel construction on Carl near Cole",
+          "date": "1928",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp15.496",
+          "page_url": "https://www.opensfhistory.org/Display/wnp15.496.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp15.496.jpg"
+        }
+      ],
       "tags": [
         "N Judah",
         "Sunset Tunnel",
         "Cole Valley"
       ],
-      "verification_notes": "Opening day facts from SFMTA; groundbreaking June 10, 1926 and cost $1,477,618 from Wikipedia's Sunset Tunnel page.",
+      "verification_notes": "Opening day facts from SFMTA; groundbreaking June 10, 1926 and cost $1,477,618 from Wikipedia's Sunset Tunnel page. Pin moved to OpenSFHistory's map point for the dedication photo.",
       "status": "published"
     },
     {
@@ -914,9 +989,9 @@
       "title": "Kezar Stadium",
       "kind": "lost_building",
       "period": "1925 to 1989",
-      "lat": 37.767,
-      "lon": -122.459,
-      "coords_confidence": "approximate",
+      "lat": 37.7668,
+      "lon": -122.456,
+      "coords_confidence": "from archive map point",
       "teaser": "Willis Polk's stadium opened in Golden Gate Park in 1925 and later became the first home of the 49ers, who played here until 1970. Nearly 60,000 seats held the crowds. It hosted concerts afterward, and the original stadium was torn down in 1989 for a smaller rebuild.",
       "source": {
         "title": "Kezar Stadium: San Francisco's Pro Football Roots",
@@ -925,13 +1000,28 @@
         "date": "2016-01-28",
         "url": "https://www.sfmta.com/blog/kezar-stadium-san-franciscos-pro-football-roots"
       },
-      "photos": [],
+      "photos": [
+        {
+          "caption": "A man works on seating during construction of Kezar Stadium",
+          "date": "August 1, 1924",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp14.0039",
+          "page_url": "https://www.opensfhistory.org/Display/wnp14.0039.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp14.0039.jpg"
+        },
+        {
+          "caption": "Crowds fill the stands for the 1950 Shrine East West Game",
+          "date": "December 30, 1950",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp25.5346",
+          "page_url": "https://www.opensfhistory.org/Display/wnp25.5346.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp25.5346.jpg"
+        }
+      ],
       "tags": [
         "49ers",
         "Golden Gate Park",
         "stadium"
       ],
-      "verification_notes": "Dates cross checked with Wikipedia (dedication May 2, 1925; demolition and rebuild 1989). Architect credit is SFMTA's.",
+      "verification_notes": "Dates cross checked with Wikipedia (dedication May 2, 1925; demolition and rebuild 1989). Architect credit is SFMTA's. Pin moved to the OpenSFHistory map point for Kezar photos.",
       "status": "published"
     },
     {
@@ -951,7 +1041,22 @@
         "date": "2026-10-21",
         "url": "https://en.wikipedia.org/wiki/Laguna_Honda_Hospital"
       },
-      "photos": [],
+      "photos": [
+        {
+          "caption": "The almshouse on the future site of Laguna Honda Hospital",
+          "date": "c. 1890",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp15.777",
+          "page_url": "https://www.opensfhistory.org/Display/wnp15.777.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp15.777.jpg"
+        },
+        {
+          "caption": "Laguna Honda Hospital with Mount Sutro and Twin Peaks behind",
+          "date": "April 1908",
+          "credit": "Turrill & Miller, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp27.7885",
+          "page_url": "https://www.opensfhistory.org/Display/wnp27.7885.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp27.7885.jpg"
+        }
+      ],
       "tags": [
         "hospital",
         "almshouse",
@@ -1055,7 +1160,22 @@
         "date": "2019-04-11",
         "url": "https://www.sfmta.com/blog/dunes-destinations-100-years-l-taraval"
       },
-      "photos": [],
+      "photos": [
+        {
+          "caption": "L line Magic Carpet car 1005 on Taraval near 23rd Avenue",
+          "date": "April 24, 1940",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp27.50416",
+          "page_url": "https://www.opensfhistory.org/Display/wnp27.50416.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp27.50416.jpg"
+        },
+        {
+          "caption": "An L line car passes the Richfield station at Taraval and 28th Avenue",
+          "date": "January 6, 1940",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp14.1507",
+          "page_url": "https://www.opensfhistory.org/Display/wnp14.1507.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp14.1507.jpg"
+        }
+      ],
       "tags": [
         "L Taraval",
         "Muni",
@@ -1083,18 +1203,18 @@
       },
       "photos": [
         {
-          "caption": "Looking up Lyon Street toward the velodrome area",
+          "caption": "View from Buena Vista Park north to the Panhandle and the velodrome",
           "date": "c. 1902",
-          "credit": "OpenSFHistory / Western Neighborhoods Project, wnp13.032",
+          "credit": "D. H. Wulzen, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp13.032",
           "page_url": "https://www.opensfhistory.org/Display/wnp13.032.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp13.032.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp13.032.jpg"
         },
         {
           "caption": "The Southern Pacific Hospital at Fell and Baker",
           "date": "1940",
           "credit": "OpenSFHistory / Western Neighborhoods Project, wnp37.02742",
           "page_url": "https://www.opensfhistory.org/Display/wnp37.02742.jpg",
-          "image_url": "https://www.opensfhistory.org/Image/700/wnp37.02742.jpg"
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp37.02742.jpg"
         }
       ],
       "tags": [
@@ -1226,7 +1346,22 @@
         "date": "2024-01-09",
         "url": "https://richmondsunsetnews.com/2024/01/09/then-and-now-irving-street-at-19th-avenue/"
       },
-      "photos": [],
+      "photos": [
+        {
+          "caption": "Irving Street at 19th Avenue, a few years before the library opened",
+          "date": "c. 1914",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp26.1833",
+          "page_url": "https://www.opensfhistory.org/Display/wnp26.1833.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp26.1833.jpg"
+        },
+        {
+          "caption": "Children in soldier costumes on the library grounds at 19th and Irving",
+          "date": "1926",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp27.1994",
+          "page_url": "https://www.opensfhistory.org/Display/wnp27.1994.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp27.1994.jpg"
+        }
+      ],
       "tags": [
         "libraries",
         "Irving Street",

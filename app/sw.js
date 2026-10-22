@@ -1,8 +1,9 @@
 /* Keeps the app shell and story data available with a weak signal. Map tiles and photos stay online only. */
-var CACHE = "sfhw-v5";
+var CACHE = "sfhw-v8";
 var SHELL = [
   "./", "index.html", "style.css", "app.js", "lib.js", "config.js", "manifest.webmanifest",
-  "vendor/leaflet/leaflet.js", "vendor/leaflet/leaflet.css", "data/stories.json",
+  "vendor/leaflet/leaflet.js", "vendor/leaflet/leaflet.css",
+  "vendor/maplibre/maplibre-gl.js", "vendor/maplibre/maplibre-gl.css", "vendor/maplibre/leaflet-maplibre-gl.js", "data/stories.json",
   "icons/icon-192.png", "icons/apple-touch-icon.png"
 ];
 
