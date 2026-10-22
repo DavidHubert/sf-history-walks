@@ -1,1 +1,1 @@
-window.HW_CONFIG = { showPhotos: true, mapStyle: "positron" }; // mapStyle: liberty, positron or bright
+window.HW_CONFIG = { showPhotos: true, mapStyle: "bright" }; // mapStyle: liberty, positron or bright
