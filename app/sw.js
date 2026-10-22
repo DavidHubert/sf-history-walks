@@ -1,5 +1,5 @@
 /* Keeps the app shell and story data available with a weak signal. Map tiles and photos stay online only. */
-var CACHE = "sfhw-v9";
+var CACHE = "sfhw-v10";
 var SHELL = [
   "./", "index.html", "style.css", "app.js", "lib.js", "config.js", "manifest.webmanifest",
   "vendor/leaflet/leaflet.js", "vendor/leaflet/leaflet.css",
@@ -28,6 +28,6 @@ self.addEventListener("fetch", function (e) {
       var copy = res.clone();
       caches.open(CACHE).then(function (c) { c.put(req, copy); });
       return res;
-    }).catch(function () { return caches.match(req); })
+    }).catch(function () { return caches.match(req, { ignoreSearch: true }); })
   );
 });
