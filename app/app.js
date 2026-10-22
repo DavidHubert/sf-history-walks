@@ -103,7 +103,7 @@
     meMarker.setLatLng([p.lat, p.lon]);
     radiusCircle.setLatLng([p.lat, p.lon]).setRadius(state.radius);
     accCircle.setLatLng([p.lat, p.lon]).setRadius(p.acc && p.acc < 200 ? p.acc : 0);
-    if (p.source === "demo") setStatus("Simulated: " + state.me.label);
+    if (p.source === "demo") setStatus("");
     // hide an old "you are near" banner once you have moved away from that story
     var tb = $("#toast");
     if (!tb.hidden && state.toastId) {
@@ -337,7 +337,7 @@
     .catch(function (e) {
       $("#cards").replaceChildren(el("div", { class: "empty" }, [el("p", { text: "Could not load the stories (" + e.message + ")." })]));
     });
-  setStatus("Simulated: " + state.me.label);
+  setStatus("");
 
   if ("serviceWorker" in navigator && (location.protocol === "https:" || location.hostname === "localhost")) {
     navigator.serviceWorker.register("sw.js").catch(function () {});
