@@ -1,6 +1,6 @@
 {
   "schema_version": "0.3",
-  "generated": "2026-10-21",
+  "generated": "2026-10-25",
   "notes": "Seed set. Coordinates are approximate, taken from street intersections, and must be checked against Sanborn maps. Teasers are written in our own words; the full story lives at each source link. Photo image URLs follow the OpenSFHistory pattern and have not been fetched from the build machine, so check they load. Status is draft or published; only published stories show in the app.",
   "stories": [
     {
@@ -195,7 +195,19 @@
         "hospitals"
       ],
       "verification_notes": "UCSF Library's history site (history.library.ucsf.edu) has period photos with open reuse notes; add one.",
-      "status": "published"
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: Hospitals in the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-hospitals-in-san-franciscos-western-neighborhoods.php"
+        },
+        {
+          "title": "Streetwise: Time It Was",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-time-it-was.php"
+        }
+      ]
     },
     {
       "id": "midwinter-fair",
@@ -236,7 +248,14 @@
         "world's fair"
       ],
       "verification_notes": "Opening day photo is by Isaiah West Taber via the Western Neighborhoods Project; find its OpenSFHistory id.",
-      "status": "published"
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: Fountains of the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-fountains-of-the-western-neighborhoods.php"
+        }
+      ]
     },
     {
       "id": "streetcar-boneyard",
@@ -303,6 +322,20 @@
           "credit": "Private collector / Western Neighborhoods Project / OpenSFHistory",
           "page_url": "https://richmondsunsetnews.com/2025/09/07/then-and-now-ninth-avenue-and-irving-street/",
           "image_url": null
+        },
+        {
+          "caption": "9th Avenue and Irving Street",
+          "date": "September 1974",
+          "credit": "John Harder, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp27.50234",
+          "page_url": "https://www.opensfhistory.org/Display/wnp27.50234.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp27.50234.jpg"
+        },
+        {
+          "caption": "9th Avenue and Irving Street",
+          "date": "1990s",
+          "credit": "Richmond Review Newspaper Collection, courtesy of Paul Kozakiewicz, OpenSFHistory / Western Neighborhoods Project, wnp07.00067",
+          "page_url": "https://www.opensfhistory.org/Display/wnp07.00067.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp07.00067.jpg"
         }
       ],
       "tags": [
@@ -310,8 +343,20 @@
         "then and now",
         "bars"
       ],
-      "verification_notes": "Check whether the French restaurant opened as announced before showing the last sentence.",
-      "status": "published"
+      "verification_notes": "Check whether the French restaurant opened as announced before showing the last sentence. Extra photo(s) added Oct 25, 2026 from the WNP Streetwise columns on outsidelands.org, using the captions and credits printed there.",
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: Take Two Aspirin in the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-take-two-aspirin-in-the-western-neighborhoods.php"
+        },
+        {
+          "title": "Streetwise: Dining on the West Side",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-dining-on-the-west-side.php"
+        }
+      ]
     },
     {
       "id": "arizmendi-1904",
@@ -547,6 +592,13 @@
           "credit": "James Stoddard, OpenSFHistory / Western Neighborhoods Project, wnp27.5474",
           "page_url": "https://www.opensfhistory.org/Display/wnp27.5474.jpg",
           "image_url": "https://www.opensfhistory.org/Image/800/wnp27.5474.jpg"
+        },
+        {
+          "caption": "Sweeny Observatory after the earthquake",
+          "date": "c. 1910",
+          "credit": "Marilyn Blaisdell Collection, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp37.03760",
+          "page_url": "https://www.opensfhistory.org/Display/wnp37.03760.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp37.03760.jpg"
         }
       ],
       "tags": [
@@ -554,8 +606,15 @@
         "1906 earthquake",
         "Strawberry Hill"
       ],
-      "verification_notes": "Dedicated Sept 19, 1891 and ruined April 18, 1906 per SF Story. Pin set on Strawberry Hill summit; remains are near it.",
-      "status": "published"
+      "verification_notes": "Dedicated Sept 19, 1891 and ruined April 18, 1906 per SF Story. Pin set on Strawberry Hill summit; remains are near it. Extra photo(s) added Oct 25, 2026 from the WNP Streetwise columns on outsidelands.org, using the captions and credits printed there.",
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: Post Earthquake Scenes in the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-post-earthquake-scenes-in-the-western-neighborhoods.php"
+        }
+      ]
     },
     {
       "id": "milk-punch-house",
@@ -790,6 +849,13 @@
           "credit": "Gabriel Moulin, OpenSFHistory / Western Neighborhoods Project, wnp27.4762",
           "page_url": "https://www.opensfhistory.org/Display/wnp27.4762.jpg",
           "image_url": "https://www.opensfhistory.org/Image/800/wnp27.4762.jpg"
+        },
+        {
+          "caption": "The Mothers Building",
+          "date": "1934",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp14.11465",
+          "page_url": "https://www.opensfhistory.org/Display/wnp14.11465.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp14.11465.jpg"
         }
       ],
       "tags": [
@@ -797,8 +863,20 @@
         "murals",
         "landmark"
       ],
-      "verification_notes": "Architect George Kelham; city landmark 2022. Inside the zoo grounds, so the building is only visible from zoo property.",
-      "status": "published"
+      "verification_notes": "Architect George Kelham; city landmark 2022. Inside the zoo grounds, so the building is only visible from zoo property. Extra photo(s) added Oct 25, 2026 from the WNP Streetwise columns on outsidelands.org, using the captions and credits printed there.",
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: Mothers of the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-mothers-of-the-western-neighborhoods.php"
+        },
+        {
+          "title": "Streetwise: Looking Back 100 Years Ago in the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-looking-back-100-years-ago-in-the-western-neighborhoods.php"
+        }
+      ]
     },
     {
       "id": "trocadero-clubhouse",
@@ -906,7 +984,14 @@
         "1957"
       ],
       "verification_notes": "Dedicated Nov 29, 1957. The article gives both early 1980s removal and 1981 scrapping, so the end date is stated loosely.",
-      "status": "published"
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: Summertime in the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-summertime-in-the-western-neighborhoods-2025.php"
+        }
+      ]
     },
     {
       "id": "fleishhacker-pool",
@@ -932,6 +1017,20 @@
           "credit": "Horace Chaffee, SF Department of Public Works, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp36.02798",
           "page_url": "https://www.opensfhistory.org/Display/wnp36.02798.jpg",
           "image_url": "https://www.opensfhistory.org/Image/800/wnp36.02798.jpg"
+        },
+        {
+          "caption": "Fleishhacker Pool shortly after opening",
+          "date": "June 4, 1925",
+          "credit": "Horace Chaffee, SF Department of Public Works, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp36.03225",
+          "page_url": "https://www.opensfhistory.org/Display/wnp36.03225.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp36.03225.jpg"
+        },
+        {
+          "caption": "Fleishhacker Pool",
+          "date": "June 29, 1928",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp27.4724",
+          "page_url": "https://www.opensfhistory.org/Display/wnp27.4724.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp27.4724.jpg"
         }
       ],
       "tags": [
@@ -939,8 +1038,25 @@
         "San Francisco Zoo",
         "Great Highway"
       ],
-      "verification_notes": "Single source (Wikipedia, read Oct 21, 2026). Pool house burned December 1, 2012. Pin on the former pool site, now parking; exact outline not checked.",
-      "status": "published"
+      "verification_notes": "Single source (Wikipedia, read Oct 21, 2026). Pool house burned December 1, 2012. Pin on the former pool site, now parking; exact outline not checked. Extra photo(s) added Oct 25, 2026 from the WNP Streetwise columns on outsidelands.org, using the captions and credits printed there.",
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: Looking Back 100 Years Ago in the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-looking-back-100-years-ago-in-the-western-neighborhoods.php"
+        },
+        {
+          "title": "Streetwise: Looking Back 100 Years",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-looking-back-100-years.php"
+        },
+        {
+          "title": "Streetwise: Summertime in the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-summertime-in-the-western-neighborhoods-2025.php"
+        }
+      ]
     },
     {
       "id": "sunset-tunnel-opening",
@@ -973,6 +1089,13 @@
           "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp15.496",
           "page_url": "https://www.opensfhistory.org/Display/wnp15.496.jpg",
           "image_url": "https://www.opensfhistory.org/Image/800/wnp15.496.jpg"
+        },
+        {
+          "caption": "A cake shaped like the Duboce Avenue entrance of the Sunset Tunnel",
+          "date": "October 21, 1928",
+          "credit": "Horace Chaffee, SF Department of Public Works, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp36.03581",
+          "page_url": "https://www.opensfhistory.org/Display/wnp36.03581.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp36.03581.jpg"
         }
       ],
       "tags": [
@@ -980,8 +1103,15 @@
         "Sunset Tunnel",
         "Cole Valley"
       ],
-      "verification_notes": "Opening day facts from SFMTA; groundbreaking June 10, 1926 and cost $1,477,618 from Wikipedia's Sunset Tunnel page. Pin moved to OpenSFHistory's map point for the dedication photo.",
-      "status": "published"
+      "verification_notes": "Opening day facts from SFMTA; groundbreaking June 10, 1926 and cost $1,477,618 from Wikipedia's Sunset Tunnel page. Pin moved to OpenSFHistory's map point for the dedication photo. Extra photo(s) added Oct 25, 2026 from the WNP Streetwise columns on outsidelands.org, using the captions and credits printed there.",
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: October Happenings in the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-october-happenings-in-the-western-neighborhoods.php"
+        }
+      ]
     },
     {
       "id": "kezar-stadium",
@@ -1022,7 +1152,14 @@
         "stadium"
       ],
       "verification_notes": "Dates cross checked with Wikipedia (dedication May 2, 1925; demolition and rebuild 1989). Architect credit is SFMTA's. Pin moved to the OpenSFHistory map point for Kezar photos.",
-      "status": "published"
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: Autumn Days in the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-autumn-days-in-the-western-neighborhoods.php"
+        }
+      ]
     },
     {
       "id": "laguna-honda-almshouse",
@@ -1063,7 +1200,14 @@
         "Laguna Honda"
       ],
       "verification_notes": "Single source (Wikipedia). Coordinates from the article's infobox.",
-      "status": "published"
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: Hospitals in the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-hospitals-in-san-franciscos-western-neighborhoods.php"
+        }
+      ]
     },
     {
       "id": "strybing-arboretum",
@@ -1447,6 +1591,1602 @@
       ],
       "verification_notes": "HELD AS DRAFT: the source says details of his stay are sparse and uses hedged language. Needs a second source.",
       "status": "draft"
+    },
+    {
+      "id": "alvord-lake-bridge",
+      "area": "Golden Gate Park",
+      "title": "The tunnel that survived 1906",
+      "kind": "layers",
+      "period": "1889 to today",
+      "lat": 37.769,
+      "lon": -122.4547,
+      "coords_confidence": "from archive map point",
+      "teaser": "Ernest Ransome built this small arch in 1889 so people could walk from Alvord Lake to the children's playground without crossing the carriage drive. It is believed to be the first reinforced concrete bridge in the United States. Sculpted stalactites give the underpass a cave look, and it came through 1906 undamaged.",
+      "source": {
+        "title": "Alvord Lake Bridge",
+        "author": "Nick Kinling",
+        "publisher": "Atlas Obscura",
+        "date": "2010-01-26",
+        "url": "https://www.atlasobscura.com/places/alvord-lake-bridge"
+      },
+      "photos": [
+        {
+          "caption": "Inside the Alvord Lake Bridge with its original concrete stalactites",
+          "date": "1890s",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp33.03911",
+          "page_url": "https://www.opensfhistory.org/Display/wnp33.03911.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp33.03911.jpg"
+        }
+      ],
+      "tags": [
+        "Golden Gate Park",
+        "engineering",
+        "1906 earthquake",
+        "Ransome"
+      ],
+      "verification_notes": "Suggested by David. Cross checked with Wikipedia, ASCE and a Richmond Sunset News piece (2022-08-03) and the OpenSFHistory 'Bridges of Golden Gate Park' post. Sources differ on the span (20 ft versus 29 ft) and on the ASCE landmark year (1969 versus a plaque on July 18, 1970), so neither is stated. The 'first' claim is hedged because ASCE's own text says 'believed'.",
+      "status": "published"
+    },
+    {
+      "id": "koret-playground",
+      "area": "Golden Gate Park",
+      "title": "America's first public playground?",
+      "kind": "layers",
+      "period": "1888 to today",
+      "lat": 37.768,
+      "lon": -122.4575,
+      "coords_confidence": "from archive map point",
+      "teaser": "Opened in 1888 as the Sharon Quarters for Children, this Golden Gate Park playground is often called the first public playground in the United States. An 1894 photo already shows a carousel, swings and the Sharon Building for rainy days. The concrete slide survived a 2007 renovation that added the Koret name.",
+      "source": {
+        "title": "Koret Children's Quarter and Carousel",
+        "author": "San Francisco Recreation and Park Department",
+        "publisher": "SF Rec and Park",
+        "date": "",
+        "url": "https://www.sfrecpark.org/Facilities/Facility/Details/Koret-Childrens-Quarter-and-Carousel-414"
+      },
+      "photos": [
+        {
+          "caption": "Carousel, Sharon Building, swings and children at the Children's Playground",
+          "date": "c. 1894",
+          "credit": "Isaiah West Taber, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp26.357",
+          "page_url": "https://www.opensfhistory.org/Display/wnp26.357.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp26.357.jpg"
+        },
+        {
+          "caption": "The gondola swing at the Children's Playground",
+          "date": "August 27, 1926",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp14.0053",
+          "page_url": "https://www.opensfhistory.org/Display/wnp14.0053.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp14.0053.jpg"
+        },
+        {
+          "caption": "The Sharon Building at the Children's Playground after earthquake damage",
+          "date": "1906",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp33.04022",
+          "page_url": "https://www.opensfhistory.org/Display/wnp33.04022.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp33.04022.jpg"
+        }
+      ],
+      "tags": [
+        "Golden Gate Park",
+        "playground",
+        "children",
+        "Sharon Building"
+      ],
+      "verification_notes": "Suggested by David. The 1888 opening and 'first' claim appear on the Rec and Park page ('thought to be') and on 730stanyan.org. The 'first' claim is treated as traditional, not proven. The current carousel is a 1914 Herschell Spillman installed in 1940, so the 1894 carousel is a different one. Pin from the archive's map point for the 1894 photo. Extra photo(s) added Oct 25, 2026 from the WNP Streetwise columns on outsidelands.org, using the captions and credits printed there.",
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: Post Earthquake Scenes in the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-post-earthquake-scenes-in-the-western-neighborhoods.php"
+        },
+        {
+          "title": "Streetwise: Autumn Days in the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-autumn-days-in-the-western-neighborhoods.php"
+        }
+      ]
+    },
+    {
+      "id": "goat-cart-man",
+      "area": "Golden Gate Park",
+      "title": "The goat cart men of the Children's Playground",
+      "kind": "layers",
+      "period": "1890s to 1930s",
+      "lat": 37.7683,
+      "lon": -122.458,
+      "coords_confidence": "approximate",
+      "teaser": "For a coin, children could ride a little wicker cart pulled by a harnessed goat in the Children's Playground, a treat that also ran at Woodward's Gardens in the Mission. The city ended the attraction in the 1930s and sold twelve carts and six harnesses to a toy shop owner for ten dollars.",
+      "source": {
+        "title": "The Goat Cart Man",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2023-01-04",
+        "url": "https://sanfranciscostory.com/the-goat-cart-man"
+      },
+      "photos": [
+        {
+          "caption": "Goat drawn carts, people on a bench and a baby carriage, probably at the Children's Playground",
+          "date": "1891",
+          "credit": "J. F. Jarvis, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp24.345a",
+          "page_url": "https://www.opensfhistory.org/Display/wnp24.345a.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp24.345a.jpg"
+        },
+        {
+          "caption": "A child in a goat cart with two more children, Children's Playground",
+          "date": "c. 1900",
+          "credit": "Photographer unknown, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp27.2853",
+          "page_url": "https://www.opensfhistory.org/Display/wnp27.2853.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp27.2853.jpg"
+        }
+      ],
+      "tags": [
+        "Golden Gate Park",
+        "children",
+        "playground"
+      ],
+      "verification_notes": "SF Story read in full. Pin from the archive map point for wnp24.345a, offset slightly from the Koret entry. The Golden Gate Park location rests on the photo caption and SF Story's mention of the Children's Playground.",
+      "status": "published"
+    },
+    {
+      "id": "electric-tower",
+      "area": "Golden Gate Park",
+      "title": "The 272 foot tower that lit up the Midwinter Fair",
+      "kind": "lost_building",
+      "period": "1894 to 1896",
+      "lat": 37.7695,
+      "lon": -122.4679,
+      "coords_confidence": "approximate",
+      "teaser": "Rising 272 feet above what is now the Music Concourse, Leopold Bonet's Electric Tower opened with the 1894 Midwinter Fair, glittering with over 3,000 lights and a giant searchlight. The concession never paid. In January 1896 dynamite finally toppled it after ropes and earlier explosives failed.",
+      "source": {
+        "title": "Electric Tower",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2026-01-21",
+        "url": "https://www.sanfranciscostory.com/electric-tower/"
+      },
+      "photos": [
+        {
+          "caption": "Elevated view east over the opening day parade, with Bonet's Electric Tower at left",
+          "date": "January 27, 1894",
+          "credit": "Isaiah West Taber, Marilyn Blaisdell Collection, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp37.03101",
+          "page_url": "https://www.opensfhistory.org/Display/wnp37.03101.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp37.03101.jpg"
+        },
+        {
+          "caption": "The fallen tower on its side in the Music Concourse, awaiting scrapping",
+          "date": "Spring 1896",
+          "credit": "Photographer unknown, Marilyn Blaisdell Collection, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp37.03263",
+          "page_url": "https://www.opensfhistory.org/Display/wnp37.03263.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp37.03263.jpg"
+        }
+      ],
+      "tags": [
+        "Midwinter Fair",
+        "Golden Gate Park",
+        "1894"
+      ],
+      "verification_notes": "SF Story read in full. Demolition dates: attempt January 11, 1896, final blast the following Sunday (apparently January 12). Pin from archive map point; tower footprint not checked against fair plans.",
+      "status": "published"
+    },
+    {
+      "id": "polo-fields",
+      "area": "Golden Gate Park",
+      "title": "A bicycle stadium that became the Be-In field",
+      "kind": "layers",
+      "period": "1906 to today",
+      "lat": 37.7686,
+      "lon": -122.4934,
+      "coords_confidence": "approximate",
+      "teaser": "The Polo Fields opened on July 4, 1906 as a bicycle racing stadium and only became a polo field in 1931. In 1911 President Taft broke ground here for the Panama Pacific fair, which was later built in the Marina. In 1967 the grass hosted the Human Be-In.",
+      "source": {
+        "title": "Polo Fields",
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia",
+        "date": "2026-10-22",
+        "url": "https://en.wikipedia.org/wiki/Polo_Fields"
+      },
+      "photos": [
+        {
+          "caption": "President Taft breaks ground for the Panama Pacific International Exposition at its first planned site, the Golden Gate Park Polo Fields",
+          "date": "October 14, 1911",
+          "credit": "Emiliano Echeverria and Randolph Brandt Collection, courtesy of Emiliano Echeverria, OpenSFHistory / Western Neighborhoods Project, wnp30.0003",
+          "page_url": "https://www.opensfhistory.org/Display/wnp30.0003.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp30.0003.jpg"
+        }
+      ],
+      "tags": [
+        "Golden Gate Park",
+        "Human Be-In",
+        "cycling"
+      ],
+      "verification_notes": "Single source (Wikipedia, read Oct 22, 2026). A 1961 Rosary rally was suggested by an earlier search but is not in this source, so it is left out until a second source is found. The 1911 Taft groundbreaking is from the WNP October 2024 Streetwise column and is consistent with the archive caption for wnp33.00934; the fair was moved to the Marina District. Pin from that photo's map point. Extra photo(s) added Oct 25, 2026 from the WNP Streetwise columns on outsidelands.org, using the captions and credits printed there.",
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: October Happenings in the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-october-happenings-in-the-western-neighborhoods.php"
+        }
+      ]
+    },
+    {
+      "id": "grove-of-memory",
+      "area": "Golden Gate Park",
+      "title": "Thirty nine redwoods for thirty nine sons",
+      "kind": "layers",
+      "period": "1920 to today",
+      "lat": 37.7721,
+      "lon": -122.4746,
+      "coords_confidence": "approximate",
+      "teaser": "In 1920 the Native Sons and Native Daughters planted 39 acacias on Junipero Serra Boulevard, one for each local member lost in World War I. In 1927 the grove was dedicated again as 39 redwoods in Golden Gate Park, and a standing Doughboy statue by M. Earl Cummings joined it in 1930.",
+      "source": {
+        "title": "Grove of Memory",
+        "author": "San Francisco Story",
+        "publisher": "San Francisco Story",
+        "date": "",
+        "url": "https://www.sanfranciscostory.com/grove-of-memory/"
+      },
+      "photos": [
+        {
+          "caption": "The Doughboy by M. Earl Cummings at the Grove of Memory",
+          "date": "May 27, 1930",
+          "credit": "Photographer unknown, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp14.2791",
+          "page_url": "https://www.opensfhistory.org/Display/wnp14.2791.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp14.2791.jpg"
+        },
+        {
+          "caption": "Junipero Serra Boulevard near Ocean Avenue, site of the original grove",
+          "date": "September 26, 1926",
+          "credit": "Photographer unknown, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp14.0149",
+          "page_url": "https://www.opensfhistory.org/Display/wnp14.0149.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp14.0149.jpg"
+        }
+      ],
+      "tags": [
+        "World War I",
+        "Golden Gate Park",
+        "memorial"
+      ],
+      "verification_notes": "SF Story read in full; the page gives no author or date. Pin from the archive map point for the 1930 Doughboy photo. The 1926 photo shows the original Junipero Serra site, which is a different location.",
+      "status": "published"
+    },
+    {
+      "id": "ucsf-parnassus-dunes",
+      "area": "Inner Sunset",
+      "title": "A medical school in the sand dunes",
+      "kind": "layers",
+      "period": "1895 to 1898",
+      "lat": 37.763,
+      "lon": -122.4582,
+      "coords_confidence": "approximate",
+      "teaser": "In 1895 Mayor Adolph Sutro gave the University of California 13 acres on windswept Mount Parnassus. A cornerstone went down in March 1897, and critics mourned a medical school buried in sand dunes. By October 1898 three Romanesque buildings stood where mule drawn scoops had levelled the ground.",
+      "source": {
+        "title": "How UCSF's Historic Parnassus Heights Campus Rose from Remote Sand Dunes",
+        "author": "Eric Brooks",
+        "publisher": "UCSF News Center",
+        "date": "2024-10-09",
+        "url": "https://ucsf.edu/news/2024/09/428516/how-ucsfs-historic-parnassus-heights-campus-rose-remote-sand-dunes"
+      },
+      "photos": [],
+      "tags": [
+        "UCSF",
+        "Inner Sunset",
+        "Sutro"
+      ],
+      "verification_notes": "Read in full. Cornerstone laid March 27, 1897; time capsule opened 1967. No archive photo identified yet. Pin placed at Parnassus Heights, not at the original building footprint.",
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: Hospitals in the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-hospitals-in-san-franciscos-western-neighborhoods.php"
+        },
+        {
+          "title": "Streetwise: Time It Was",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-time-it-was.php"
+        }
+      ]
+    },
+    {
+      "id": "park-emergency-hospital",
+      "area": "Haight",
+      "title": "The park's emergency hospital",
+      "kind": "layers",
+      "period": "1902 to today",
+      "lat": 37.7674,
+      "lon": -122.4545,
+      "coords_confidence": "approximate",
+      "teaser": "Designed by city architect Newton Tharp and built in 1902, Park Emergency Hospital was San Francisco's first permanent emergency hospital. The 1906 earthquake collapsed its entrance, doctors worked in tents nearby, and it was rebuilt with stone from fallen downtown buildings. It closed as a hospital in 1978 and appears in Dirty Harry.",
+      "source": {
+        "title": "The Very Old Hospital in Golden Gate Park",
+        "author": "Curbed SF",
+        "publisher": "From the Thicket (reposting Curbed SF)",
+        "date": "2014-01-07",
+        "url": "https://fromthethicket.com/2014/01/07/the-landmarks-the-very-old-hospital-in-golden-gate-park-the-landmarks-curbed-sf/"
+      },
+      "photos": [],
+      "tags": [
+        "Golden Gate Park",
+        "1906 earthquake",
+        "hospital"
+      ],
+      "verification_notes": "Read in full. Landmark No. 201, 1991. The page places it in the Kezar parking lot; the address 811 Stanyan comes from an image filename and the search result, so treat the address as unconfirmed. Pin approximate. No author named on the reposted page.",
+      "status": "published"
+    },
+    {
+      "id": "mauds-cole-street",
+      "area": "Cole Valley",
+      "title": "Maud's, the lesbian bar on Cole Street",
+      "kind": "layers",
+      "period": "1966 to 1989",
+      "lat": 37.765,
+      "lon": -122.4503,
+      "coords_confidence": "approximate",
+      "teaser": "From 1966 until its last drink on September 9, 1989, Maud's at 937 Cole Street was a refuge founded by Rikki Streicher. Janis Joplin, Del Martin and Phyllis Lyon were patrons, and its softball team played in the gay league. In 2025 supervisors began making the surviving building a landmark.",
+      "source": {
+        "title": "Resolution No. 485-25, initiating landmark designation of Maud's",
+        "author": "San Francisco Board of Supervisors",
+        "publisher": "City and County of San Francisco",
+        "date": "2025-10-21",
+        "url": "https://www.sfbos.org/sites/default/files/r0485-25.pdf"
+      },
+      "photos": [],
+      "tags": [
+        "LGBTQ history",
+        "Cole Valley",
+        "landmark"
+      ],
+      "verification_notes": "Two sources agree: the Board resolution (929 to 941 Cole parcel, 937 Cole bar, closed 1989, Landmark process begun Oct 21, 2025) and Wikipedia (opened 1966 as The Study, last drink Sept 9, 1989). The resolution says only 'mid 1960s' for opening. Documentary Last Call at Maud's was released in 1993. Pin approximate for the 900 block of Cole.",
+      "status": "published"
+    },
+    {
+      "id": "chautauqua-house",
+      "area": "Haight",
+      "title": "The Chautauqua House",
+      "kind": "layers",
+      "period": "1967 to 1986",
+      "lat": 37.7712,
+      "lon": -122.4473,
+      "coords_confidence": "approximate",
+      "teaser": "From 1967 to 1986 this 1909 house at 1451 Masonic Avenue was home to the American Indian Historical Society, founded by Rupert and Jeannette Costo and others. It published The Indian Historian, held gallery space, and hosted Richard Oakes's education committee as the Alcatraz occupation began in 1969.",
+      "source": {
+        "title": "Resolution No. 498-25, initiating landmark designation of the Chautauqua House",
+        "author": "San Francisco Board of Supervisors",
+        "publisher": "City and County of San Francisco",
+        "date": "2025-10-21",
+        "url": "https://www.sfbos.org/sites/default/files/r0498-25.pdf"
+      },
+      "photos": [],
+      "tags": [
+        "Native American history",
+        "Haight",
+        "landmark"
+      ],
+      "verification_notes": "Board resolution read in full; names, dates and address from it. The resolution spells the founder's surname 'Casto'; Wikipedia and university archives use Costo, which is used here. Pin approximate for the 1400 block of Masonic and should be checked on the ground.",
+      "status": "published"
+    },
+    {
+      "id": "buena-vista-farmhouse",
+      "area": "Haight",
+      "title": "A farmhouse among the Victorians",
+      "kind": "layers",
+      "period": "1860s to today",
+      "lat": 37.768,
+      "lon": -122.4425,
+      "coords_confidence": "approximate",
+      "teaser": "On Piedmont Street stands the Buena Vista Farmhouse, built around the 1860s when the land was part of a dairy farm. Very few San Francisco houses predate 1870. The city began the landmark process in March 2026, calling it an early Italianate house and a rare reminder of ranching outside the city core.",
+      "source": {
+        "title": "Resolution No. 95-26, initiating landmark designation of the Buena Vista Farmhouse",
+        "author": "San Francisco Board of Supervisors",
+        "publisher": "City and County of San Francisco",
+        "date": "2026-03-03",
+        "url": "https://www.sfbos.org/sites/default/files/r0095-26.pdf"
+      },
+      "photos": [],
+      "tags": [
+        "farm",
+        "Haight",
+        "landmark"
+      ],
+      "verification_notes": "Board resolution read in full. Address 11 Piedmont Street; construction date is 'circa 1860s'. Pin approximate. Private home, view from the street.",
+      "status": "published"
+    },
+    {
+      "id": "mcmorry-lagan-houses",
+      "area": "Lower Haight",
+      "title": "The houses where soldiers slept in 1906",
+      "kind": "layers",
+      "period": "1883 to today",
+      "lat": 37.7725,
+      "lon": -122.4262,
+      "coords_confidence": "approximate",
+      "teaser": "Two houses built in 1883 and 1889 at 188 and 198 Haight Street, with a barn behind on Laguna, stayed with one family until they became a landmark in 1983. In April 1906 Presidio soldiers slept in the barn, and the firestorm stopped two blocks east. Army blankets reportedly remain there.",
+      "source": {
+        "title": "McMorry Lagan Residence, San Francisco Landmark 164",
+        "author": "NoeHill",
+        "publisher": "NoeHill in San Francisco",
+        "date": "",
+        "url": "https://noehill.com/sf/landmarks/sf164.asp"
+      },
+      "photos": [],
+      "tags": [
+        "1906 earthquake",
+        "landmark",
+        "Lower Haight"
+      ],
+      "verification_notes": "Single source (NoeHill, read Oct 22, 2026); the landmark is spelled McMorry-Lagan on NoeHill and McMorry-Lagen in some city documents. Pin approximate and near the edge of the focus area.",
+      "status": "published"
+    },
+    {
+      "id": "hose-company-30",
+      "area": "Haight",
+      "title": "The firehouse that covered the Sunset",
+      "kind": "layers",
+      "period": "1896 to 1959",
+      "lat": 37.7678,
+      "lon": -122.4513,
+      "coords_confidence": "approximate",
+      "teaser": "Built in 1896 at 1757 Waller Street, this wood and granite firehouse worked until 1959. From 1912 to 1956 Truck Company 12 was based here, serving a district that ran across the entire Sunset out to the Pacific. The original painted lettering still survives on the front.",
+      "source": {
+        "title": "Resolution No. 484-25, initiating landmark designation of Hose Company No. 30",
+        "author": "San Francisco Board of Supervisors",
+        "publisher": "City and County of San Francisco",
+        "date": "2025-10-21",
+        "url": "https://www.sfbos.org/sites/default/files/r0484-25.pdf"
+      },
+      "photos": [],
+      "tags": [
+        "fire department",
+        "Haight",
+        "landmark"
+      ],
+      "verification_notes": "Board resolution read in full. Lettering reads Chemical 5, S.F.F.D. and Truck 12. A Fire Department museum page gives the Engine 30 company a different timeline, so only the resolution's facts are used. Pin approximate.",
+      "status": "published"
+    },
+    {
+      "id": "conservatory-of-flowers",
+      "area": "Golden Gate Park",
+      "title": "The greenhouse that James Lick never built",
+      "kind": "layers",
+      "period": "1876 to today",
+      "lat": 37.7724,
+      "lon": -122.46,
+      "coords_confidence": "approximate",
+      "teaser": "James Lick bought the pieces of two prefabricated glasshouses in 1876 for his San Jose estate, then died. A group of 27 San Franciscans bought them for the park, and the Conservatory of Flowers opened in 1879. A 1995 windstorm blew out about 30,000 panes before the 2003 reopening.",
+      "source": {
+        "title": "Conservatory of Flowers",
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia",
+        "date": "2026-10-22",
+        "url": "https://en.wikipedia.org/wiki/Conservatory_of_Flowers"
+      },
+      "photos": [
+        {
+          "caption": "Floral welcome for the United Nations in front of the Conservatory",
+          "date": "May 1, 1945",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp25.5247",
+          "page_url": "https://www.opensfhistory.org/Display/wnp25.5247.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp25.5247.jpg"
+        },
+        {
+          "caption": "One of the floral clock displays in front of the Conservatory",
+          "date": "September 1966",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp25.5714",
+          "page_url": "https://www.opensfhistory.org/Display/wnp25.5714.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp25.5714.jpg"
+        },
+        {
+          "caption": "Floral welcome to the Fraternal Order of Eagles",
+          "date": "c. 1905",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp15.674",
+          "page_url": "https://www.opensfhistory.org/Display/wnp15.674.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp15.674.jpg"
+        }
+      ],
+      "tags": [
+        "Golden Gate Park",
+        "James Lick",
+        "greenhouse"
+      ],
+      "verification_notes": "Single source (Wikipedia). The page says the glass came from New York around Cape Horn; the often repeated Irish origin is not in this source and is left out. Designer uncertain. Extra photo(s) added Oct 25, 2026 from the WNP Streetwise columns on outsidelands.org, using the captions and credits printed there.",
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: Conservatory of Flowers in Golden Gate Park",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-conservatory-of-flowers-in-golden-gate-park.php"
+        }
+      ]
+    },
+    {
+      "id": "murphy-windmill",
+      "area": "Golden Gate Park",
+      "title": "The windmill that watered the park",
+      "kind": "layers",
+      "period": "1908 to 2012",
+      "lat": 37.7636,
+      "lon": -122.5088,
+      "coords_confidence": "approximate",
+      "teaser": "Finished in 1908, the Murphy Windmill pumped groundwater to irrigate Golden Gate Park, so the city would not have to buy costly water from Spring Valley Water. Electric pumps replaced it in 1913, it fell into ruin by the 1950s, and a restoration reopened it in 2012.",
+      "source": {
+        "title": "Murphy Windmill",
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia",
+        "date": "2026-10-22",
+        "url": "https://en.wikipedia.org/wiki/Murphy_Windmill"
+      },
+      "photos": [],
+      "tags": [
+        "Golden Gate Park",
+        "windmill",
+        "water"
+      ],
+      "verification_notes": "Single source (Wikipedia). The page does not explain who Murphy was, so the name is not explained in the teaser. Pin approximate.",
+      "status": "published"
+    },
+    {
+      "id": "beach-chalet",
+      "area": "Golden Gate Park",
+      "title": "Willis Polk's chalet and the WPA murals",
+      "kind": "layers",
+      "period": "1925 to today",
+      "lat": 37.7699,
+      "lon": -122.5096,
+      "coords_confidence": "approximate",
+      "teaser": "Willis Polk designed the Beach Chalet in 1925 as a city run restaurant with changing rooms for beachgoers. In 1936 and 1937 artist Lucien Labaudt painted a fresco of 1930s San Francisco in its lobby for the WPA. The murals remain, with a brewery upstairs.",
+      "source": {
+        "title": "Beach Chalet",
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia",
+        "date": "2026-10-22",
+        "url": "https://en.wikipedia.org/wiki/Beach_Chalet"
+      },
+      "photos": [
+        {
+          "caption": "The new Beach Chalet",
+          "date": "May 31, 1925",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp27.5886",
+          "page_url": "https://www.opensfhistory.org/Display/wnp27.5886.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp27.5886.jpg"
+        },
+        {
+          "caption": "Beach Chalet",
+          "date": "1990s",
+          "credit": "Philip Liborio Gangi, Richmond Review Newspaper Collection, courtesy of Paul Kozakiewicz, OpenSFHistory / Western Neighborhoods Project, wnp07.00140",
+          "page_url": "https://www.opensfhistory.org/Display/wnp07.00140.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp07.00140.jpg"
+        }
+      ],
+      "tags": [
+        "WPA",
+        "Golden Gate Park",
+        "murals",
+        "Ocean Beach"
+      ],
+      "verification_notes": "Single source (Wikipedia). Address 1000 Great Highway. Prohibition angle was not supported by the page and is left out. Extra photo(s) added Oct 25, 2026 from the WNP Streetwise columns on outsidelands.org, using the captions and credits printed there.",
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: Dining on the West Side",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-dining-on-the-west-side.php"
+        },
+        {
+          "title": "Streetwise: Looking Back 100 Years Ago in the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-looking-back-100-years-ago-in-the-western-neighborhoods.php"
+        }
+      ]
+    },
+    {
+      "id": "mclaren-lodge",
+      "area": "Golden Gate Park",
+      "title": "The superintendent who lived at the park gate",
+      "kind": "layers",
+      "period": "1896 to today",
+      "lat": 37.7737,
+      "lon": -122.4553,
+      "coords_confidence": "approximate",
+      "teaser": "Built in 1896 and designed by Edward Swain, McLaren Lodge at the park's Stanyan Street entrance was park headquarters and also the home of superintendent John McLaren, who lived there until his death in 1943. It became San Francisco Landmark No. 175 in 1984.",
+      "source": {
+        "title": "McLaren Lodge",
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia",
+        "date": "2026-10-22",
+        "url": "https://en.wikipedia.org/wiki/McLaren_Lodge"
+      },
+      "photos": [
+        {
+          "caption": "The living Christmas tree in front of McLaren Lodge",
+          "date": "1940s",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp14.0810",
+          "page_url": "https://www.opensfhistory.org/Display/wnp14.0810.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp14.0810.jpg"
+        }
+      ],
+      "tags": [
+        "Golden Gate Park",
+        "John McLaren",
+        "landmark"
+      ],
+      "verification_notes": "Single source (Wikipedia); thin. Address 501 Stanyan Street. Could use a second source and a photo. Extra photo(s) added Oct 25, 2026 from the WNP Streetwise columns on outsidelands.org, using the captions and credits printed there.",
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: Holiday Scenes in the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-holiday-scenes-in-the-western-neighborhoods.php"
+        }
+      ]
+    },
+    {
+      "id": "ocean-beach-pier",
+      "area": "Outer Sunset",
+      "title": "The pier that carried only water",
+      "kind": "lost_building",
+      "period": "1894 to 1967",
+      "lat": 37.7757,
+      "lon": -122.511,
+      "coords_confidence": "approximate",
+      "teaser": "A pier stretching over 300 yards off Ocean Beach existed mainly to carry a sixteen inch intake pipe. It sent seawater to the Olympic Club's pool and the city's bathhouses, through a pumphouse near Balboa Street and a reservoir on Masonic. The system ran from 1894 until the pier's removal in 1967.",
+      "source": {
+        "title": "Ocean Beach Pier",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2026-08-26",
+        "url": "https://www.sanfranciscostory.com/ocean-beach-pier/"
+      },
+      "photos": [],
+      "tags": [
+        "Ocean Beach",
+        "Olympic Club",
+        "bathhouses"
+      ],
+      "verification_notes": "SF Story read in full. Photos in the article come from SFMemory, the Hiller museum and others, not OpenSFHistory, so none are embedded. Pin approximate, just offshore of the pumphouse site south of Balboa.",
+      "status": "published"
+    },
+    {
+      "id": "the-gables-la-playa",
+      "area": "Outer Sunset",
+      "title": "Last call at The Gables",
+      "kind": "lost_building",
+      "period": "1938 to 1972",
+      "lat": 37.7752,
+      "lon": -122.5086,
+      "coords_confidence": "approximate",
+      "teaser": "Eva Connett ran The Gables at 720 La Playa for 34 years and, in the late 1960s, locked the door at night to all but regulars. Across the street, Playland was closing. Last call came at 2 a.m. on Monday, May 1, 1972, and an auction of the contents followed.",
+      "source": {
+        "title": "Last Call at The Gables",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2026-07-15",
+        "url": "https://www.sanfranciscostory.com/last-call-at-the-gables/"
+      },
+      "photos": [
+        {
+          "caption": "Elevated view southeast on La Playa from Balboa, with streetcars at the Playland terminal",
+          "date": "1941",
+          "credit": "Photographer unknown, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp14.1730",
+          "page_url": "https://www.opensfhistory.org/Display/wnp14.1730.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp14.1730.jpg"
+        },
+        {
+          "caption": "Night view of Chutes at the Beach from inside the Midway",
+          "date": "1920s",
+          "credit": "Laurie Hollings Photo Album, James R. Smith Collection, OpenSFHistory / Western Neighborhoods Project, wnp66.241",
+          "page_url": "https://www.opensfhistory.org/Display/wnp66.241.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp66.241.jpg"
+        },
+        {
+          "caption": "Demolition of Playland at the Beach",
+          "date": "October 1972",
+          "credit": "Greg Gaar, courtesy of Greg Gaar, OpenSFHistory / Western Neighborhoods Project, wnp72.7247",
+          "page_url": "https://www.opensfhistory.org/Display/wnp72.7247.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp72.7247.jpg"
+        }
+      ],
+      "tags": [
+        "Playland",
+        "Ocean Beach",
+        "bar"
+      ],
+      "verification_notes": "SF Story read in full. The article spells her name Eva in the text and Eve in its title; Eva is used. Pin approximate for the 700 block of La Playa. Extra photo(s) added Oct 25, 2026 from the WNP Streetwise columns on outsidelands.org, using the captions and credits printed there.",
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: October Happenings in the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-october-happenings-in-the-western-neighborhoods.php"
+        },
+        {
+          "title": "Streetwise: Nighttime San Francisco",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-nighttime-san-francisco.php"
+        }
+      ]
+    },
+    {
+      "id": "storyland-zoo",
+      "area": "Outer Sunset",
+      "title": "Storyland at the zoo",
+      "kind": "lost_building",
+      "period": "1959 to 1996",
+      "lat": 37.7335,
+      "lon": -122.503,
+      "coords_confidence": "approximate",
+      "teaser": "Opened on July 25, 1959, Storyland spread Mother Goose rhymes and fairy tales over about three and a half acres at the zoo. Children paid a dime to climb inside the houses and play on the statues. Rapunzel's Castle, the last piece, was demolished on March 13, 1996.",
+      "source": {
+        "title": "Storyland",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2023-11-15",
+        "url": "https://www.sanfranciscostory.com/storyland/"
+      },
+      "photos": [],
+      "tags": [
+        "San Francisco Zoo",
+        "children",
+        "fairy tales"
+      ],
+      "verification_notes": "SF Story read in full. Photos in the article are postcards and newspaper images, so none are embedded. Pin approximate near the zoo entrance.",
+      "status": "published"
+    },
+    {
+      "id": "uncle-cliff-kamaka",
+      "area": "Outer Sunset",
+      "title": "Uncle Cliff of Fleishhacker Pool",
+      "kind": "layers",
+      "period": "1940s to 1978",
+      "lat": 37.7318,
+      "lon": -122.5066,
+      "coords_confidence": "approximate",
+      "teaser": "Hawaiian born lifeguard Cliff Kamaka worked at Fleishhacker Pool from the late 1940s until it closed in 1971, played ukulele for teenagers, and mentored the young surfers around the bonfires at Kelly's Cove. Fred Van Dyke said Cliff showed him that surfing was a way of life.",
+      "source": {
+        "title": "The Legacy of Uncle Cliff",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2023-02-22",
+        "url": "https://www.sanfranciscostory.com/legacy-of-uncle-cliff/"
+      },
+      "photos": [],
+      "tags": [
+        "surfing",
+        "Fleishhacker Pool",
+        "Ocean Beach"
+      ],
+      "verification_notes": "SF Story read in full. The family photographs are courtesy of Anita Kamaka, so none are embedded; ask permission before using them. Pin is on the pool site; Kelly's Cove is a separate spot on Ocean Beach. Kamaka died in 1978.",
+      "status": "published"
+    },
+    {
+      "id": "lake-merced-roadhouses",
+      "area": "Outer Sunset",
+      "title": "The roadhouses on the road to the ocean",
+      "kind": "lost_building",
+      "period": "1853 to 1880s",
+      "lat": 37.7293,
+      "lon": -122.4834,
+      "coords_confidence": "approximate",
+      "teaser": "In the 1850s travelers on the road to the ocean stopped at the Lake House and the Ocean House. Joseph Leavitt opened the Ocean House in 1854 near today's Lowell High School, with a billiard salon, a bowling alley and stables for about 100 horses. A newspaper called it an assignation house on a large scale.",
+      "source": {
+        "title": "Lake Merced Roadhouses",
+        "author": "Woody LaBounty",
+        "publisher": "San Francisco Story",
+        "date": "2024-05-08",
+        "url": "https://www.sanfranciscostory.com/lake-merced-roadhouses/"
+      },
+      "photos": [
+        {
+          "caption": "Ocean House",
+          "date": "c. 1870",
+          "credit": "Carleton Watkins, Marilyn Blaisdell Collection, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp37.00812",
+          "page_url": "https://www.opensfhistory.org/Display/wnp37.00812.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp37.00812.jpg"
+        },
+        {
+          "caption": "Ocean Avenue west of Junipero Serra, with a painted fence advertisement",
+          "date": "c. 1902",
+          "credit": "Photographer unknown, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp15.176",
+          "page_url": "https://www.opensfhistory.org/Display/wnp15.176.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp15.176.jpg"
+        }
+      ],
+      "tags": [
+        "Lake Merced",
+        "roadhouse",
+        "Ocean Avenue"
+      ],
+      "verification_notes": "SF Story read in full. The Ocean House burned in the early 1880s. Pin from the archive map point for wnp37.00812.",
+      "status": "published"
+    },
+    {
+      "id": "doggie-diner-head",
+      "area": "Outer Sunset",
+      "title": "The dog head on Sloat",
+      "kind": "layers",
+      "period": "1948 to today",
+      "lat": 37.734,
+      "lon": -122.5043,
+      "coords_confidence": "approximate",
+      "teaser": "In 2001 the city restored a surviving Doggie Diner dog head and set it on a median at Sloat Boulevard and 45th Avenue. The chain, begun by Al Ross in Oakland in 1948, closed in 1986, and a grassroots rescue effort saved many of the signs. The head became Landmark No. 254 in 2006.",
+      "source": {
+        "title": "Doggie Diner",
+        "author": "Wikipedia contributors",
+        "publisher": "Wikipedia",
+        "date": "2026-10-22",
+        "url": "https://en.wikipedia.org/wiki/Doggie_Diner"
+      },
+      "photos": [],
+      "tags": [
+        "Doggie Diner",
+        "landmark",
+        "Sloat Boulevard"
+      ],
+      "verification_notes": "Single source (Wikipedia). Landmark designated August 11, 2006. Pin approximate.",
+      "status": "published"
+    },
+    {
+      "id": "tait-russell-house-of-mystery",
+      "area": "Outer Sunset",
+      "title": "The House of Mystery on the Great Highway",
+      "kind": "lost_building",
+      "period": "1860s to 1940",
+      "lat": 37.7405,
+      "lon": -122.5085,
+      "coords_confidence": "approximate",
+      "teaser": "Between Ulloa and Vicente, attorney B. S. Brooks built a seaside hotel and bar in the 1860s, nicknamed Brooks' Folly. By 1901 Alexander and Ida Russell lived there with a chapel and Japanese garden, and a 1910 newspaper story spread cult rumors. It later reopened as Tait's at the Beach and burned in 1940.",
+      "source": {
+        "title": "A Drive-By History of Great Highway",
+        "author": "Nicole Meldahl",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2025-04-11",
+        "url": "https://www.outsidelands.org/a-drive-by-history-of-great-highway.php"
+      },
+      "photos": [
+        {
+          "caption": "Tait's at the Beach at Ulloa and the Great Highway",
+          "date": "1919",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp26.946",
+          "page_url": "https://www.opensfhistory.org/Display/wnp26.946.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp26.946.jpg"
+        }
+      ],
+      "tags": [
+        "Great Highway",
+        "Ocean Beach",
+        "mystery"
+      ],
+      "verification_notes": "Column read in full. The column lists the Brooks hotel (between Ulloa and Vicente) and the Russell home (2526 Great Highway) separately; the link between them is read from its text and should be checked. Russells bought in May 1901, Ida died 1917, sold 1919, Tait's ran until 1931. Pin approximate.",
+      "status": "published"
+    },
+    {
+      "id": "carville-by-the-sea",
+      "area": "Outer Sunset",
+      "title": "Carville, the village of old streetcars",
+      "kind": "layers",
+      "period": "1890s to the 1910s",
+      "lat": 37.763,
+      "lon": -122.5085,
+      "coords_confidence": "approximate",
+      "teaser": "In the 1890s a Bohemian colony grew in the dunes by Ocean Beach, using surplus horsecars as clubhouses, taverns and retreats. Artists such as Xavier Martinez and Jack London spent time at Carville. It grew after the 1906 earthquake, and by the 1910s the cars were being cleared away.",
+      "source": {
+        "title": "A Drive-By History of Great Highway",
+        "author": "Nicole Meldahl",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2025-04-11",
+        "url": "https://www.outsidelands.org/a-drive-by-history-of-great-highway.php"
+      },
+      "photos": [
+        {
+          "caption": "View of Carville from the Great Highway between Judah and Irving",
+          "date": "January 1910",
+          "credit": "Marilyn Blaisdell Collection, courtesy of Molly Blaisdell, OpenSFHistory / Western Neighborhoods Project, wnp70.0816",
+          "page_url": "https://www.opensfhistory.org/Display/wnp70.0816.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp70.0816.jpg"
+        },
+        {
+          "caption": "Kite view of the Outer Sunset after Carville was cleared, near Irving and 48th Avenue",
+          "date": "1912",
+          "credit": "Marilyn Blaisdell Collection, courtesy of Molly Blaisdell, OpenSFHistory / Western Neighborhoods Project, wnp70.0282",
+          "page_url": "https://www.opensfhistory.org/Display/wnp70.0282.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp70.0282.jpg"
+        }
+      ],
+      "tags": [
+        "Ocean Beach",
+        "streetcars",
+        "bohemians"
+      ],
+      "verification_notes": "Great Highway column read in full; a second Streetwise column (April 2025) says a ceremonial burning of cars in 1913 marked the decline and it was mostly gone by the early 1920s, so the end date is kept loose. Pin approximate.",
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: Post Earthquake Scenes in the Western Neighborhoods",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-post-earthquake-scenes-in-the-western-neighborhoods.php"
+        }
+      ]
+    },
+    {
+      "id": "mccarty-wireless-phone",
+      "area": "Outer Sunset",
+      "title": "The wireless telephone in the dunes",
+      "kind": "event",
+      "period": "1905 to 1906",
+      "lat": 37.7582,
+      "lon": -122.5043,
+      "coords_confidence": "approximate",
+      "teaser": "At 45th Avenue and Lawton, brothers Francis and Ignatius McCarty built a shack in the dunes for their wireless telephone company. On September 2, 1905, Francis demonstrated the device from the Cliff House basement to a receiver about a mile away. He died on May 8, 1906.",
+      "source": {
+        "title": "A Drive-By History of Great Highway",
+        "author": "Nicole Meldahl",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2025-04-11",
+        "url": "https://www.outsidelands.org/a-drive-by-history-of-great-highway.php"
+      },
+      "photos": [],
+      "tags": [
+        "technology",
+        "Outer Sunset",
+        "1905"
+      ],
+      "verification_notes": "Column read in full; location is the northwest corner of 45th Avenue and Lawton. The image in the column is from the California Historical Radio Society and is not embedded. Pin approximate.",
+      "status": "published"
+    },
+    {
+      "id": "union-76-16th-irving",
+      "area": "Inner Sunset",
+      "title": "The Union 76 at 16th and Irving",
+      "kind": "lost_building",
+      "period": "1930s to 2018",
+      "lat": 37.7634,
+      "lon": -122.4733,
+      "coords_confidence": "approximate",
+      "teaser": "For decades a neighborhood landmark stood at the southeast corner of 16th Avenue and Irving Street, a Union 76 station with an unusual structure. When it closed, supporters hoped to reuse it, but it was demolished in 2018. The column reports the site as a vacant lot behind a chain link fence.",
+      "source": {
+        "title": "Streetwise: Fill Er Up in the Western Neighborhoods",
+        "author": "Frank Dunnigan",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2024-03-08",
+        "url": "https://www.outsidelands.org/streetwise-fill-er-up-in-the-western-neighborhoods.php"
+      },
+      "photos": [
+        {
+          "caption": "16th Avenue and Irving Street",
+          "date": "c. 1938",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp4.1604",
+          "page_url": "https://www.opensfhistory.org/Display/wnp4.1604.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp4.1604.jpg"
+        }
+      ],
+      "tags": [
+        "gas stations",
+        "Inner Sunset",
+        "demolished"
+      ],
+      "verification_notes": "Column read in full. Vacant lot status is as of the March 2024 column and may have changed. Pin approximate.",
+      "status": "published"
+    },
+    {
+      "id": "parnassus-masonic-temple",
+      "area": "Inner Sunset",
+      "title": "The Masonic temple at 9th and Judah",
+      "kind": "layers",
+      "period": "1914 to today",
+      "lat": 37.762,
+      "lon": -122.466,
+      "coords_confidence": "approximate",
+      "teaser": "About 2,000 people gathered at 9th Avenue and Judah Street on February 23, 1914 for the cornerstone of the Parnassus Masonic Temple. Shops filled the ground floor, with Safeway a long time tenant, and lodge rooms the upper floors. The lodge later sold the building after membership declined.",
+      "source": {
+        "title": "Streetwise: Looking Back 100 Years",
+        "author": "Frank Dunnigan",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2024-01-16",
+        "url": "https://www.outsidelands.org/streetwise-looking-back-100-years.php"
+      },
+      "photos": [
+        {
+          "caption": "Parnassus Masonic Temple, southwest corner of 9th Avenue and Judah Street",
+          "date": "c. 1924",
+          "credit": "Martin Behrman, courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp4.1607",
+          "page_url": "https://www.opensfhistory.org/Display/wnp4.1607.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp4.1607.jpg"
+        }
+      ],
+      "tags": [
+        "Masons",
+        "Inner Sunset",
+        "Judah Street"
+      ],
+      "verification_notes": "Column read in full. Photo shows the building under maintenance around 1924. Pin approximate.",
+      "status": "published"
+    },
+    {
+      "id": "irving-theatre",
+      "area": "Inner Sunset",
+      "title": "The Irving Theatre",
+      "kind": "lost_building",
+      "period": "1926 to 1962",
+      "lat": 37.764,
+      "lon": -122.4705,
+      "coords_confidence": "approximate",
+      "teaser": "Construction began in summer 1925 on the Irving Theatre at 1332 Irving Street, which opened in 1926 as a neighborhood movie house. It closed in July 1962 and was demolished to make room for an apartment building of the 1960s.",
+      "source": {
+        "title": "Streetwise: Looking Back 100 Years Ago in the Western Neighborhoods",
+        "author": "Frank Dunnigan",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2025-01-13",
+        "url": "https://www.outsidelands.org/streetwise-looking-back-100-years-ago-in-the-western-neighborhoods.php"
+      },
+      "photos": [
+        {
+          "caption": "Irving Theatre montage",
+          "date": "1925",
+          "credit": "Courtesy of Jack Tillmany, OpenSFHistory / Western Neighborhoods Project, wnp5.50208",
+          "page_url": "https://www.opensfhistory.org/Display/wnp5.50208.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp5.50208.jpg"
+        }
+      ],
+      "tags": [
+        "movie theaters",
+        "Inner Sunset",
+        "demolished"
+      ],
+      "verification_notes": "Column read in full. The cross street for 1332 Irving was not confirmed; the pin is a rough estimate on Irving Street and should be corrected on a walk.",
+      "status": "published"
+    },
+    {
+      "id": "original-beach-chalet",
+      "area": "Outer Sunset",
+      "title": "The first Beach Chalet, moved aside",
+      "kind": "lost_building",
+      "period": "1925 to 1958",
+      "lat": 37.7627,
+      "lon": -122.4819,
+      "coords_confidence": "approximate",
+      "teaser": "In 1925 the original Beach Chalet was moved from the west side of the Great Highway to 24th Avenue between Irving and Judah, making way for Willis Polk's new building. The Boy Scouts used it until selling in 1958, and it later burned. Reports mentioned children playing with matches in the dry grass behind it.",
+      "source": {
+        "title": "Streetwise: Looking Back 100 Years Ago in the Western Neighborhoods",
+        "author": "Frank Dunnigan",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2025-01-13",
+        "url": "https://www.outsidelands.org/streetwise-looking-back-100-years-ago-in-the-western-neighborhoods.php"
+      },
+      "photos": [
+        {
+          "caption": "Relocation of the original Beach Chalet",
+          "date": "1925",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp4.0840",
+          "page_url": "https://www.opensfhistory.org/Display/wnp4.0840.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp4.0840.jpg"
+        }
+      ],
+      "tags": [
+        "Beach Chalet",
+        "Boy Scouts",
+        "fire"
+      ],
+      "verification_notes": "Column read in full; it points to a 2011 article by John Freeman for more. Pin placed mid block on 24th Avenue between Irving and Judah.",
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: Dining on the West Side",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-dining-on-the-west-side.php"
+        }
+      ]
+    },
+    {
+      "id": "examiner-christmas-tree",
+      "area": "Twin Peaks",
+      "title": "The Examiner's Christmas tree on Twin Peaks",
+      "kind": "event",
+      "period": "1927 to the 1930s",
+      "lat": 37.7554,
+      "lon": -122.4476,
+      "coords_confidence": "approximate",
+      "teaser": "In 1927 the San Francisco Examiner began building a giant lit Christmas tree on Twin Peaks, bolting hundreds of branches to a solid trunk. By 1928 a castle like archway and a shuttle bus brought crowds to Christmas Tree Point, about 900 feet up. The city later decorated a living tree at McLaren Lodge instead.",
+      "source": {
+        "title": "Streetwise: Holiday Scenes in the Western Neighborhoods",
+        "author": "Frank Dunnigan",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2024-12-18",
+        "url": "https://www.outsidelands.org/streetwise-holiday-scenes-in-the-western-neighborhoods.php"
+      },
+      "photos": [
+        {
+          "caption": "The Examiner Christmas tree being installed on Twin Peaks",
+          "date": "1927",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp27.5679",
+          "page_url": "https://www.opensfhistory.org/Display/wnp27.5679.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp27.5679.jpg"
+        },
+        {
+          "caption": "The lit Examiner Christmas tree on Twin Peaks",
+          "date": "December 21, 1928",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp27.5678",
+          "page_url": "https://www.opensfhistory.org/Display/wnp27.5678.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp27.5678.jpg"
+        },
+        {
+          "caption": "The Christmas archway at Christmas Tree Point",
+          "date": "December 23, 1928",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp27.5561",
+          "page_url": "https://www.opensfhistory.org/Display/wnp27.5561.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp27.5561.jpg"
+        }
+      ],
+      "tags": [
+        "Christmas",
+        "Twin Peaks",
+        "Examiner"
+      ],
+      "verification_notes": "Column read in full; it points to Outside Lands podcast #256 and a 2017 article by Woody LaBounty. The end date of the Examiner tree is not given in the column. Pin approximate.",
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: Nighttime San Francisco",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-nighttime-san-francisco.php"
+        }
+      ]
+    },
+    {
+      "id": "cliff-house-shipwrecks",
+      "area": "Richmond",
+      "title": "Wrecks below the Cliff House",
+      "kind": "event",
+      "period": "1922 to 1937",
+      "lat": 37.779,
+      "lon": -122.514,
+      "coords_confidence": "approximate",
+      "teaser": "Fog and rocks kept claiming ships here. The tanker Lyman Stewart was beached after a collision in October 1922, the lumber ship Coos Bay broke up on rocks north of Lincoln Park in 1927, and the freighter Ohioan ran aground near Seal Rock on October 7, 1936. Its rusted beams stayed visible until at least 1939.",
+      "source": {
+        "title": "Streetwise: October Happenings in the Western Neighborhoods",
+        "author": "Frank Dunnigan",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2024-10-15",
+        "url": "https://www.outsidelands.org/streetwise-october-happenings-in-the-western-neighborhoods.php"
+      },
+      "photos": [
+        {
+          "caption": "The SS Ohioan aground near Seal Rock, with the Sutro Baths roof at far right",
+          "date": "1936",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp27.7347",
+          "page_url": "https://www.opensfhistory.org/Display/wnp27.7347.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp27.7347.jpg"
+        }
+      ],
+      "tags": [
+        "shipwrecks",
+        "Cliff House",
+        "Seal Rock"
+      ],
+      "verification_notes": "Column read in full; it points to WNP Podcast #123. The column gives conflicting months for the Ohioan's fire and hull breakup, so those are left out. Pin approximate.",
+      "status": "published"
+    },
+    {
+      "id": "carzonia",
+      "area": "Richmond",
+      "title": "Carzonia, a village of old streetcars",
+      "kind": "event",
+      "period": "1906 to 1910",
+      "lat": 37.7838,
+      "lon": -122.46,
+      "coords_confidence": "approximate",
+      "teaser": "After the 1906 earthquake, an emergency community at 4th Avenue and Cornwall Street used old transit vehicles as homes. Known as Carzonia, it formed in 1906 and lasted until 1910, one of the ways the Richmond sheltered people who had lost their houses.",
+      "source": {
+        "title": "Streetwise: Post Earthquake Scenes in the Western Neighborhoods",
+        "author": "Frank Dunnigan",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2025-04-13",
+        "url": "https://www.outsidelands.org/streetwise-post-earthquake-scenes-in-the-western-neighborhoods.php"
+      },
+      "photos": [
+        {
+          "caption": "Carzonia",
+          "date": "c. 1907",
+          "credit": "Helen Sjoberg Collection, courtesy of Vicky Walker, Bernal History Project, OpenSFHistory / Western Neighborhoods Project, wnp102.0047",
+          "page_url": "https://www.opensfhistory.org/Display/wnp102.0047.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp102.0047.jpg"
+        }
+      ],
+      "tags": [
+        "1906 earthquake",
+        "streetcars",
+        "Richmond"
+      ],
+      "verification_notes": "Column read in full; it links to a separate Carzonia page not yet read. Pin approximate.",
+      "status": "published"
+    },
+    {
+      "id": "camp-5-refugee-camp",
+      "area": "Golden Gate Park",
+      "title": "Camp 5 by the playground",
+      "kind": "event",
+      "period": "1906",
+      "lat": 37.7684,
+      "lon": -122.4572,
+      "coords_confidence": "approximate",
+      "teaser": "After the 1906 earthquake, refugees camped in Golden Gate Park near the Children's Playground at a site called Camp 5. Families first lived in Army tents before refugee cottages were built, and a photo records children from the camp posing for the camera.",
+      "source": {
+        "title": "Streetwise: Post Earthquake Scenes in the Western Neighborhoods",
+        "author": "Frank Dunnigan",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2025-04-13",
+        "url": "https://www.outsidelands.org/streetwise-post-earthquake-scenes-in-the-western-neighborhoods.php"
+      },
+      "photos": [
+        {
+          "caption": "Earthquake refugee children at Camp 5, Golden Gate Park",
+          "date": "1906",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp15.1083",
+          "page_url": "https://www.opensfhistory.org/Display/wnp15.1083.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp15.1083.jpg"
+        }
+      ],
+      "tags": [
+        "1906 earthquake",
+        "Golden Gate Park",
+        "refugees"
+      ],
+      "verification_notes": "Column read in full. Pin placed near the Children's Playground and offset from the Koret pin; exact camp footprint not known.",
+      "status": "published"
+    },
+    {
+      "id": "memorial-museum",
+      "area": "Golden Gate Park",
+      "title": "The Memorial Museum that gave way to the de Young",
+      "kind": "lost_building",
+      "period": "1894 to 1929",
+      "lat": 37.7708,
+      "lon": -122.4695,
+      "coords_confidence": "approximate",
+      "teaser": "The Memorial Museum began as the Midwinter Fair's Fine Arts Building and showed earthquake damage to its east wall in 1906. It was repaired, then demolished in 1929 to make way for the expanded de Young Museum.",
+      "source": {
+        "title": "Streetwise: Post Earthquake Scenes in the Western Neighborhoods",
+        "author": "Frank Dunnigan",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2025-04-13",
+        "url": "https://www.outsidelands.org/streetwise-post-earthquake-scenes-in-the-western-neighborhoods.php"
+      },
+      "photos": [
+        {
+          "caption": "The Memorial Museum with earthquake damage to its east wall",
+          "date": "1906",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp13.359",
+          "page_url": "https://www.opensfhistory.org/Display/wnp13.359.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp13.359.jpg"
+        }
+      ],
+      "tags": [
+        "Golden Gate Park",
+        "1906 earthquake",
+        "museums"
+      ],
+      "verification_notes": "The 1906 damage and 1929 demolition are from the column; the Fine Arts Building origin comes from the archive caption for wnp37.03263 read earlier. Pin approximate.",
+      "status": "published"
+    },
+    {
+      "id": "rideout-fountain",
+      "area": "Golden Gate Park",
+      "title": "The saber toothed tiger fountain",
+      "kind": "layers",
+      "period": "1924 to today",
+      "lat": 37.7714,
+      "lon": -122.469,
+      "coords_confidence": "approximate",
+      "teaser": "Installed in 1924 in front of the de Young, the Rideout Fountain was funded by a bequest from Corinna Rideout. Its design shows a saber toothed tiger fighting a snake. It was in poor repair from the early 2000s, and restoration was complete by 2010.",
+      "source": {
+        "title": "Streetwise: Fountains of the Western Neighborhoods",
+        "author": "Frank Dunnigan",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2024-02-08",
+        "url": "https://www.outsidelands.org/streetwise-fountains-of-the-western-neighborhoods.php"
+      },
+      "photos": [
+        {
+          "caption": "Rideout Fountain, Golden Gate Park",
+          "date": "July 18, 1960",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp27.0975",
+          "page_url": "https://www.opensfhistory.org/Display/wnp27.0975.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp27.0975.jpg"
+        }
+      ],
+      "tags": [
+        "fountains",
+        "Golden Gate Park",
+        "Music Concourse"
+      ],
+      "verification_notes": "Column read in full. Pin approximate.",
+      "status": "published"
+    },
+    {
+      "id": "whales-fountain",
+      "area": "Golden Gate Park",
+      "title": "The Whales that left the Academy of Sciences",
+      "kind": "lost_building",
+      "period": "1939 to the 2000s",
+      "lat": 37.7699,
+      "lon": -122.4663,
+      "coords_confidence": "approximate",
+      "teaser": "Robert Boardman Howard's sculpture The Whales first appeared at the Golden Gate International Exposition of 1939 and 1940, and later anchored a fountain at the Academy of Sciences. When the complex was rebuilt it was removed and damaged during relocation. It waits in East Bay storage for funds and a new home.",
+      "source": {
+        "title": "Streetwise: Fountains of the Western Neighborhoods",
+        "author": "Frank Dunnigan",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2024-02-08",
+        "url": "https://www.outsidelands.org/streetwise-fountains-of-the-western-neighborhoods.php"
+      },
+      "photos": [
+        {
+          "caption": "The Academy of Sciences fountain",
+          "date": "December 1971",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp25.6269",
+          "page_url": "https://www.opensfhistory.org/Display/wnp25.6269.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp25.6269.jpg"
+        }
+      ],
+      "tags": [
+        "sculpture",
+        "Golden Gate Park",
+        "Academy of Sciences"
+      ],
+      "verification_notes": "Column read in full. Storage status is as of the February 2024 column. Pin approximate.",
+      "status": "published"
+    },
+    {
+      "id": "apple-cider-press-fountain",
+      "area": "Golden Gate Park",
+      "title": "The fountain shaped like a cider press",
+      "kind": "layers",
+      "period": "1894 to today",
+      "lat": 37.7704,
+      "lon": -122.4685,
+      "coords_confidence": "approximate",
+      "teaser": "Thomas Shields Clark designed an apple cider press as a sculpture housing a drinking fountain for the 1894 Midwinter Fair on the Music Concourse. M. H. de Young later acquired it for the city. The metal cups were removed for sanitary reasons, and the fountain has been dry for many years.",
+      "source": {
+        "title": "Streetwise: Fountains of the Western Neighborhoods",
+        "author": "Frank Dunnigan",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2024-02-08",
+        "url": "https://www.outsidelands.org/streetwise-fountains-of-the-western-neighborhoods.php"
+      },
+      "photos": [
+        {
+          "caption": "The Music Concourse",
+          "date": "c. 1900",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp15.672",
+          "page_url": "https://www.opensfhistory.org/Display/wnp15.672.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp15.672.jpg"
+        }
+      ],
+      "tags": [
+        "fountains",
+        "Midwinter Fair",
+        "Music Concourse"
+      ],
+      "verification_notes": "Column read in full. The photo is captioned only as the Music Concourse, so the fountain may be small in frame. Pin approximate.",
+      "status": "published"
+    },
+    {
+      "id": "monkey-island-zoo",
+      "area": "Outer Sunset",
+      "title": "Monkey Island at the zoo",
+      "kind": "lost_building",
+      "period": "1935 to 1995",
+      "lat": 37.7325,
+      "lon": -122.503,
+      "coords_confidence": "approximate",
+      "teaser": "Built in 1935 as a WPA project, Monkey Island was a fountain and waterfall habitat for more than 40 spider monkeys. The 1989 Loma Prieta earthquake caused damage estimated at over 500,000 dollars. It was demolished in 1995 and the monkeys moved to a more naturalistic habitat.",
+      "source": {
+        "title": "Streetwise: Fountains of the Western Neighborhoods",
+        "author": "Frank Dunnigan",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2024-02-08",
+        "url": "https://www.outsidelands.org/streetwise-fountains-of-the-western-neighborhoods.php"
+      },
+      "photos": [
+        {
+          "caption": "San Francisco Zoo",
+          "date": "July 26, 1956",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp25.5037",
+          "page_url": "https://www.opensfhistory.org/Display/wnp25.5037.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp25.5037.jpg"
+        }
+      ],
+      "tags": [
+        "San Francisco Zoo",
+        "WPA",
+        "monkeys"
+      ],
+      "verification_notes": "Column read in full; the photo caption does not name Monkey Island, so check the image before showing it. Pin approximate.",
+      "status": "published"
+    },
+    {
+      "id": "zims-19th-taraval",
+      "area": "Outer Sunset",
+      "title": "Breakfast served 24 hours",
+      "kind": "lost_building",
+      "period": "1957 to 1995",
+      "lat": 37.7427,
+      "lon": -122.4765,
+      "coords_confidence": "approximate",
+      "teaser": "Zim's Broiled Hamburgers opened in fall 1957 at the southwest corner of 19th Avenue and Taraval Street, with a bright sign promising breakfast 24 hours a day. It drew late customers from nearby theaters and bars. The chain had 12 San Francisco locations, and the last Zim's closed in 1995.",
+      "source": {
+        "title": "Streetwise: Nighttime San Francisco",
+        "author": "Frank Dunnigan",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2023-12-11",
+        "url": "https://www.outsidelands.org/streetwise-nighttime-san-francisco.php"
+      },
+      "photos": [],
+      "tags": [
+        "restaurants",
+        "Taraval Street",
+        "nightlife"
+      ],
+      "verification_notes": "Column read in full. The column's photo is a San Francisco Examiner image without an archive ID, so none is embedded. Pin approximate.",
+      "status": "published"
+    },
+    {
+      "id": "playland-food",
+      "area": "Outer Sunset",
+      "title": "Eating at Playland",
+      "kind": "layers",
+      "period": "1930s to 1972",
+      "lat": 37.7745,
+      "lon": -122.5098,
+      "coords_confidence": "approximate",
+      "teaser": "Playland's Great Highway strip fed the crowds with pies and fountain treats at the Whitney Brothers Pie Shop, Mexican food at the Hot House, and the IT'S IT, which the column calls the birthplace of the chocolate dipped ice cream sandwich. After Playland closed in 1972, the Hot House moved to Balboa Street until 1996.",
+      "source": {
+        "title": "Streetwise: A Sweet Tooth in the Western Neighborhoods",
+        "author": "Frank Dunnigan",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2024-06-17",
+        "url": "https://www.outsidelands.org/streetwise-a-sweet-tooth-in-the-western-neighborhoods.php"
+      },
+      "photos": [
+        {
+          "caption": "Restaurants facing the Great Highway at Playland at the Beach",
+          "date": "c. 1955",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp4.0985",
+          "page_url": "https://www.opensfhistory.org/Display/wnp4.0985.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp4.0985.jpg"
+        },
+        {
+          "caption": "Kitchen of the Whitney Brothers Pie Shop",
+          "date": "1930s",
+          "credit": "Laurie Hollings Photo Album, James R. Smith Collection, OpenSFHistory / Western Neighborhoods Project, wnp66.404",
+          "page_url": "https://www.opensfhistory.org/Display/wnp66.404.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp66.404.jpg"
+        },
+        {
+          "caption": "Playland at the Beach",
+          "date": "c. 1935",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp4.1049",
+          "page_url": "https://www.opensfhistory.org/Display/wnp4.1049.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp4.1049.jpg"
+        }
+      ],
+      "tags": [
+        "Playland",
+        "food",
+        "Great Highway"
+      ],
+      "verification_notes": "Two columns read in full: Sweet Tooth (June 2024) and Dining on the West Side (March 2025, source of the Hot House facts). Hot House opened about 1935 under Barney Gavello and was later run by Juan Faranda, who retired in 1996. Pin approximate.",
+      "status": "published",
+      "more": [
+        {
+          "title": "Streetwise: Dining on the West Side",
+          "publisher": "Western Neighborhoods Project",
+          "url": "https://www.outsidelands.org/streetwise-dining-on-the-west-side.php"
+        }
+      ]
+    },
+    {
+      "id": "mount-davidson-cross",
+      "area": "Mount Davidson",
+      "title": "The cross on Mount Davidson",
+      "kind": "layers",
+      "period": "1923 to today",
+      "lat": 37.7384,
+      "lon": -122.4545,
+      "coords_confidence": "approximate",
+      "teaser": "A 40 foot wooden cross went up on Mount Davidson in 1923, followed by replacements lost to vandalism or fire. The concrete cross was lit in 1934 by President Roosevelt by telegraph from Washington. In 1997 the land sold at auction for 26,000 dollars to Armenian American organizations, who added a plaque honoring genocide victims.",
+      "source": {
+        "title": "Streetwise: Looking Back 100 Years",
+        "author": "Frank Dunnigan",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2024-01-16",
+        "url": "https://www.outsidelands.org/streetwise-looking-back-100-years.php"
+      },
+      "photos": [
+        {
+          "caption": "A cross on Mount Davidson",
+          "date": "1920s or 1930s",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp4.1264",
+          "page_url": "https://www.opensfhistory.org/Display/wnp4.1264.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp4.1264.jpg"
+        }
+      ],
+      "tags": [
+        "Mount Davidson",
+        "landmark",
+        "Easter"
+      ],
+      "verification_notes": "Column read in full; the concrete cross was lit March 24, 1934, and the column does not say which of the crosses the photo shows, so its date is unconfirmed. Cross is lit at Easter and on April 24. Pin placed at the summit.",
+      "status": "published"
+    },
+    {
+      "id": "shriners-hospital-19th",
+      "area": "Outer Sunset",
+      "title": "The last old hospital in the Sunset",
+      "kind": "lost_building",
+      "period": "1923 to 1997",
+      "lat": 37.748,
+      "lon": -122.4762,
+      "coords_confidence": "approximate",
+      "teaser": "Shriners Hospital for Children opened at 1601 19th Avenue in 1923, the third site in the national network. By 1990 it was the last pre World War II hospital still operating in San Francisco. A Sacramento area replacement opened in 1997, and the five acre site was redeveloped with the main building preserved.",
+      "source": {
+        "title": "Streetwise: Hospitals in the Western Neighborhoods",
+        "author": "Frank Dunnigan",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2024-08-08",
+        "url": "https://www.outsidelands.org/streetwise-hospitals-in-san-franciscos-western-neighborhoods.php"
+      },
+      "photos": [
+        {
+          "caption": "Shriners Hospital for Children",
+          "date": "July 29, 1948",
+          "credit": "Marilyn Blaisdell Collection, courtesy of Molly Blaisdell, OpenSFHistory / Western Neighborhoods Project, wnp70.1205",
+          "page_url": "https://www.opensfhistory.org/Display/wnp70.1205.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp70.1205.jpg"
+        }
+      ],
+      "tags": [
+        "hospitals",
+        "19th Avenue",
+        "redevelopment"
+      ],
+      "verification_notes": "Column read in full. Pin approximate for the 1600 block of 19th Avenue.",
+      "status": "published"
+    },
+    {
+      "id": "st-marys-stanyan",
+      "area": "Haight",
+      "title": "San Francisco's oldest hospital, on Stanyan",
+      "kind": "layers",
+      "period": "1857 to today",
+      "lat": 37.774,
+      "lon": -122.4545,
+      "coords_confidence": "approximate",
+      "teaser": "Founded in 1857 at First and Bryant, St. Mary's moved after the 1906 disaster to Sutter Street and then Hayes Street, and since 1972 has stood at 450 Stanyan. It is the oldest continuously operating hospital in San Francisco, and on August 1, 2024 it merged with UC.",
+      "source": {
+        "title": "Streetwise: Hospitals in the Western Neighborhoods",
+        "author": "Frank Dunnigan",
+        "publisher": "Western Neighborhoods Project",
+        "date": "2024-08-08",
+        "url": "https://www.outsidelands.org/streetwise-hospitals-in-san-franciscos-western-neighborhoods.php"
+      },
+      "photos": [
+        {
+          "caption": "St. Mary's Hospital",
+          "date": "c. 1952",
+          "credit": "Courtesy of a private collector, OpenSFHistory / Western Neighborhoods Project, wnp27.7324",
+          "page_url": "https://www.opensfhistory.org/Display/wnp27.7324.jpg",
+          "image_url": "https://www.opensfhistory.org/Image/800/wnp27.7324.jpg"
+        }
+      ],
+      "tags": [
+        "hospitals",
+        "Haight",
+        "UCSF"
+      ],
+      "verification_notes": "Column read in full. The column's wording on the first move is 'temporary after 1906' at 2344 Sutter, then 2200 Hayes by 1909. Pin approximate.",
+      "status": "published"
     }
   ]
 }
