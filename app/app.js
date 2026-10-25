@@ -250,6 +250,14 @@
     return el("figure", { class: "fig" }, [box]);
   }
 
+  function moreLinks(s) {
+    if (!s.more || !s.more.length) return null;
+    var links = s.more.map(function (m) {
+      return el("a", { class: "morelink", href: m.url, target: "_blank", rel: "noopener noreferrer", text: m.title });
+    });
+    return el("div", { class: "morefrom" }, [el("span", { class: "morelabel", text: "More from " + (s.more[0].publisher || "other sources") })].concat(links));
+  }
+
   function card(s, num) {
     var photos = (s.photos && s.photos.length) ? s.photos.map(photoFig) : [noPhotoFig()];
     var src = s.source;
@@ -267,6 +275,7 @@
         el("p", { class: "teaser", text: s.teaser }),
         el("a", { class: "read", href: src.url, target: "_blank", rel: "noopener noreferrer", text: "Read the full story" }),
         el("p", { class: "source", text: src.title + (by ? ", " + by : "") + (src.date ? " (" + src.date + ")" : "") }),
+        moreLinks(s),
         el("div", { class: "actions" }, [
           el("button", { class: "go", type: "button", text: "Show on map", onclick: function () { state.selected = s.id; map.setView([s.lat, s.lon], Math.max(map.getZoom(), 17)); render(); } }),
           el("a", { class: "go", target: "_blank", rel: "noopener noreferrer", href: "https://www.google.com/maps/dir/?api=1&travelmode=walking&destination=" + s.lat + "," + s.lon, text: "Walk there" })
