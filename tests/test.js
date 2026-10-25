@@ -29,7 +29,10 @@ check("withDistance sorts nearest first; split respects radius", () => {
   const me = { lat: 37.7693, lon: -122.4530 };
   const list = HW.withDistance(data.stories, me);
   for (let i = 1; i < list.length; i++) assert(list[i - 1].d <= list[i].d);
-  assert.strictEqual(list[0].id, "haight-street-grounds");
+  // independent check of the nearest story, so adding stories never breaks this test
+  const flat = s => Math.hypot((s.lat - me.lat) * 110574, (s.lon - me.lon) * 88000);
+  const nearest = data.stories.slice().sort((a, b) => flat(a) - flat(b))[0];
+  assert.strictEqual(list[0].id, nearest.id);
   const { inside, outside } = HW.split(list, 500);
   assert.strictEqual(inside.length + outside.length, list.length);
   assert(inside.every(s => s.d <= 500) && outside.every(s => s.d > 500));
@@ -54,6 +57,10 @@ data.stories.forEach(s => {
       assert(p.caption && p.credit && p.date, "photo needs caption, date and credit");
       assert(/^https:\/\//.test(p.page_url), "photo page_url must be https");
       if (p.image_url) assert(/^https:\/\//.test(p.image_url), "image_url must be https");
+    });
+    (s.more || []).forEach(m => {
+      assert(m.title && m.publisher, "more link needs title and publisher");
+      assert(/^https:\/\//.test(m.url), "more link url must be https");
     });
     assert(!/[—–]/.test(s.teaser + s.title), "no dashes used as connectors in copy");
   });
